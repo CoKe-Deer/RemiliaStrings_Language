@@ -1,2 +1,2 @@
 # RemiliaStrings_Language
-eng
+Remilia_MOD_Language
