@@ -1,0 +1,96 @@
+{
+  "KAattack": {
+      "NAMES": [
+        "連段A","連段a"
+      ],
+      "DESCRIPTION": "該卡牌為一個連段系列攻擊的初始牌 #b 。"
+    },
+  "KMABianfuzhen": {
+    "NAMES": [
+      "魔法A","魔法a","MA","ma"
+    ],
+    "DESCRIPTION": "該卡牌為魔法A系列的其中一張魔法卡牌 #b 。"
+  },
+  "KallUp": {
+      "NAMES": [
+        "升級全部"
+      ],
+      "DESCRIPTION": "這張牌打出後將自己升級一次 #b 。"
+    },
+  "KLianduan": {
+      "NAMES": [
+        "連段","式"
+      ],
+      "DESCRIPTION": "該卡牌為一個系列攻擊打出三張後的衍生牌 #b 。"
+    },
+  "Kwl": {
+    "NAMES": [
+      "物理",
+      "物理攻擊",
+      "物理傷害"
+    ],
+    "DESCRIPTION": "蕾米莉亞大小姐其中一種攻擊傷害類型。"
+  },
+  "Kmf": {
+    "NAMES": [
+      "魔法",
+      "魔法攻擊",
+      "魔法傷害"
+    ],
+    "DESCRIPTION": "蕾米莉亞大小姐其中一種攻擊傷害類型。"
+  },
+  "KXDS": {
+  "NAMES": [
+    "相對數",
+    "相對"
+  ], "DESCRIPTION": "起始相對為一，通過戰鬥獲得經驗提升。"
+  },
+  "Kwljc": {
+    "NAMES": [
+      "物理加成"
+    ],
+    "DESCRIPTION": "物理加成會讓物理攻擊獲得額外的傷害。"
+    },
+  "Kmfjc": {
+  "NAMES": [
+    "魔法加成"
+  ],
+  "DESCRIPTION": "魔法加成會讓魔法攻擊獲得額外的傷害與效果。"
+},
+  "KLMLY": {
+    "NAMES": [
+      "蕾米莉亞"
+    ],
+    "DESCRIPTION": "蕾米莉亞是紅魔館的主人。"
+  },
+  "KFkxt": {
+    "NAMES": [
+      "符卡準備","符文之力"
+    ],
+    "DESCRIPTION": " 蕾米莉亞 必須要有符卡點數才可以釋放中級與以上魔法。"
+  },
+  "KFX": {
+    "NAMES": [
+      "飛行"
+    ],
+    "DESCRIPTION": "蕾米莉亞的永久飛行狀態。"
+  },
+  "KHWYB": {
+  "NAMES": [
+    "紅霧異變"
+  ],
+  "DESCRIPTION": " 蕾米莉亞發動異變，將整個幻想鄉的環境都改變了。"
+},
+  "KFWZB": {
+  "NAMES": [
+    "符文準備"
+  ],
+  "DESCRIPTION": "#y符文之力層數。"
+},
+  "KQNXXG": {
+  "NAMES": [
+    "千年吸血鬼"
+  ],
+  "DESCRIPTION": "#y 蕾米莉亞 的千年修煉的能力。"
+}
+}

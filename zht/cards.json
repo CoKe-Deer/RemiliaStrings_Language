@@ -1,0 +1,178 @@
+{
+  "RemiliaMod:Scratch": {
+    "NAME": "抓擊",
+    "DESCRIPTION": " 蕾米莉亞 使出基本 物理攻擊 造成 !D! 點傷害。",
+	"EXTENDED_DESCRIPTION": [
+      "物理攻擊",
+      "蕾米莉亞的攻擊方式其中之一"
+    ]
+  },
+  "RemiliaMod:Defend": {
+    "NAME": "抱頭蹲防",
+    "DESCRIPTION": " 蕾米莉亞 抱頭蹲防獲得 !B! 點 格擋 。",
+	"EXTENDED_DESCRIPTION": [
+      "抱頭蹲防",
+      " 蕾米莉亞 的防禦方式其中之一"
+    ]
+  },
+  "RemiliaMod:CAattack": {
+    "NAME": "A連段",
+    "DESCRIPTION": " 連段A 造成!D! 點 物理傷害 ，升級這張牌時 抽一張牌 升級全部 打出 三 次後將第二 式 加入手牌",
+    "UPGRADE_DESCRIPTION": " A 連段 蕾米莉亞的物理連段攻擊，打出兩次後將一張 A攻擊 第二 式 加入卡組 打出這張牌時升級全部A攻擊"
+  },
+  "RemiliaMod:CAattack_t": {
+    "NAME": "A連段 第二式",
+    "DESCRIPTION": "造成兩次 !D! 點 物理傷害 。 連段A 強化版 第二 式 抽一張牌 升級全部 ",
+    "UPGRADE_DESCRIPTION": " a連段 打出一次後 消耗 升級全部 A第二 式 造成 !D! 點傷害。 你每有一張名字中有 A 的牌 升級全部 。"
+  },
+  "RemiliaMod:CAattack_s": {
+    "NAME": "A連段 最終式",
+    "DESCRIPTION": "對所有怪物造成 !D! 點 物理傷害 。 連段A 強化版 最終 式 抽一張牌 消耗 升級全部 ",
+    "UPGRADE_DESCRIPTION": " a連段 打出一次後 消耗 升級全部 連段A最終 式 造成 !D! 點傷害。 你每有一張名字中有 A 的牌 升級全部 。"
+  },
+  "RemiliaMod:CFx": {
+    "NAME": "飛行模式",
+    "DESCRIPTION": " 蕾米莉亞 該戰鬥獲得 永久 飛行 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CFxAttack": {
+    "NAME": "飛空打擊",
+    "DESCRIPTION": " 蕾米莉亞 造成一次 !D! 點 物理傷害 。身上必須有 飛行 才可有效 升級全部 ",
+    "UPGRADE_DESCRIPTION": "需要有飛行模式"
+  },
+  "RemiliaMod:CFTAttack": {
+  "NAME": "飛踢",
+  "DESCRIPTION": " 蕾米莉亞 造成兩次 !D! 點 物理傷害 。  身上必須有 飛行 才可有效 給敵人一層 虛弱 升級全部 ",
+  "UPGRADE_DESCRIPTION": "需要有飛行模式"
+  },
+  "RemiliaMod:CDB": {
+  "NAME": "地面騷擾B",
+  "DESCRIPTION": " 蕾米莉亞 造成四次 !D! 點 物理傷害 給與敵人 !M! 層 易傷 。",
+  "UPGRADE_DESCRIPTION": "  "
+  },
+  "RemiliaMod:CD6B": {
+  "NAME": "地面騷擾6B",
+  "DESCRIPTION": " 蕾米莉亞 造成四次 !D! 點 物理傷害 給與敵人 !M! 層 虛弱 。",
+  "UPGRADE_DESCRIPTION": "  "
+},
+  "RemiliaMod:CJDB": {
+    "NAME": "飛行騷擾B",
+    "DESCRIPTION": " 蕾米莉亞 造成四次 !D! 點 物理傷害 給與敵人 !M! 層 易傷 抽一張牌 身上必須有 飛行 才可有效。",
+    "UPGRADE_DESCRIPTION": " 需要有飛行模式 "
+  },
+  "RemiliaMod:CSlAttack": {
+    "NAME": "升龍",
+    "DESCRIPTION": " 蕾米莉亞 造成三次 !D! 點 物理傷害 破壞敵人的 格擋 升級全部 ",
+    "UPGRADE_DESCRIPTION": " 費用 TEST -1 "
+  },
+  "RemiliaMod:CMABianfuzhen": {
+    "NAME": "蝙蝠陣 (初級魔法)",
+    "DESCRIPTION": " 魔法A 對所有怪物造成 !D! 點 魔法傷害 。  升級全部  抽一張牌",
+    "UPGRADE_DESCRIPTION": " 魔法A 蕾米莉亞的魔法傷害攻擊 魔法A "
+  },
+  "RemiliaMod:CMADc": {
+  "NAME": "蝙蝠 (中級)",
+  "DESCRIPTION": " 魔法A 造成十次 !D! 點 魔法傷害 。 需要一層 符文準備  升級全部 ",
+  "UPGRADE_DESCRIPTION": " 需要一層 符文準備 "
+  },
+  "RemiliaMod:CMAXBY": {
+    "NAME": "小不夜 (中級)",
+    "DESCRIPTION": " 魔法A 對所有怪物造成四次 !D! 點 魔法傷害 ， 升級全部 給與所有怪物 相對數 的 虛弱 與 易傷 需要三層 符文準備 ",
+    "UPGRADE_DESCRIPTION": " 需要三層 符文準備 "
+  },
+  "RemiliaMod:CMAXSq": {
+  "NAME": "小神槍 (中級)",
+  "DESCRIPTION": " 魔法A 對所有怪物造成 !D! 點 魔法傷害 ， 升級全部 給與所有怪物 相對數 的 虛弱 與 易傷 需要兩層 符文準備 ",
+  "UPGRADE_DESCRIPTION": " 需要二層 符文準備 "
+  },
+  "RemiliaMod:CMODSq": {
+  "NAME": "大神槍 (高級)",
+  "DESCRIPTION": " 魔法A 對所有怪物造成四次 !D! 點 魔法傷害 ， 升級全部 給與所有怪物 相對數 的 虛弱 與 易傷 需要四層 符文準備 與 紅霧異變 ",
+    "UPGRADE_DESCRIPTION": " 需要四層 符文準備 與 紅霧異變"
+
+},
+  "RemiliaMod:CPHwYb": {
+    "NAME": "紅霧異變",
+    "DESCRIPTION": " 蕾米莉亞 將在本場戰鬥獲得 紅霧異變 效果  虛無 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CHMF": {
+    "NAME": "紅魔法（特殊）",
+    "DESCRIPTION": " 蕾米莉亞 使出基本的力量 對所有敵人造成 !D! 點 魔法傷害 給與敵人 !M! 中毒  需要 紅霧異變 虛無 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CPXsg": {
+    "NAME": "千年吸血鬼",
+    "DESCRIPTION": " 蕾米莉亞 將在本場戰鬥獲得 千年吸血鬼 效果  ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CFPLL": {
+    "NAME": "分配力量",
+    "DESCRIPTION": " 蕾米莉亞 獲得一點 力量 失去一點 敏捷  虛無 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CFPMJ": {
+    "NAME": "分配敏捷",
+    "DESCRIPTION": " 蕾米莉亞 獲得一點 敏捷 失去一點 力量  虛無 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CPFWZL": {
+    "NAME": "符文之力（白色）",
+    "DESCRIPTION": " 獲得一層 符卡準備 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CPZQ": {
+    "NAME": "增強（藍色能力）",
+    "DESCRIPTION": " 獲得 相對經驗 100點 獲得一層 力量 ",
+    "UPGRADE_DESCRIPTION": " 費用 -1 "
+  },
+  "RemiliaMod:CJNGSYD": {
+    "NAME": "高速移動",
+    "DESCRIPTION": " 抽 !M! 張牌 丟 !M! 張牌   "
+  },
+  "RemiliaMod:CJNJQFY": {
+    "NAME": "精巧防禦",
+    "DESCRIPTION": " 抽 !M! 張牌 丟 一 張張牌 獲得 !B! 點 格擋  "
+  },
+  "RemiliaMod:CJNFWZL": {
+    "NAME": "符文之力（金色）",
+    "DESCRIPTION": " 獲得一層 符卡準備 抽一張牌 獲得 !B! 點 格擋 "
+  },
+  "RemiliaMod:CMEJNS": {
+    "NAME": "瑪爾加尼斯",
+    "DESCRIPTION": " 加 10 點 血上限 獲得 壁壘 ，獲得 820 點 格擋 ，獲得 3280 層 無實體  所有敵人失去 999 點 力量 。"
+  },
+  "RemiliaMod:CJNCJFJ": {
+    "NAME": "廢物利用",
+    "DESCRIPTION": "消耗三張牌，獲得三點 能量 只有在手牌有足夠牌時才有效 消耗"
+  },
+  "RemiliaMod:CJNHS": {
+    "NAME": "垃圾箱",
+    "DESCRIPTION": "消耗 一張牌。 NL 獲得與其耗能相等的 [B]  "
+  },
+  "RemiliaMod:CJNSP": {
+    "NAME": "燒牌",
+    "DESCRIPTION": "消耗 一張牌 抽一張牌 獲得3點 格擋 "
+  },
+  "RemiliaMod:CJNSJDF": {
+    "NAME": "伺機待發",
+    "DESCRIPTION": "獲得兩層雙發效果 給與自身 !M! 層易傷和虛弱"
+  },
+  "RemiliaMod:CJNCMSS": {
+  "NAME": "沉默殺手",
+  "DESCRIPTION": "下兩個回合傷害加倍 給與自身 !M! 層易傷和虛弱"
+},
+  "RemiliaMod:CWYW": {
+    "NAME": "巫妖王",
+    "DESCRIPTION": "巫妖王將會給與你 霜之哀傷 "
+  },
+  "RemiliaMod:CSZBS": {
+    "NAME": "霜之哀傷",
+    "DESCRIPTION": "這把史詩級武器將給你7點 力量"
+  },
+  "RemiliaMod:CYMZW": {
+    "NAME": "拉格納羅斯",
+    "DESCRIPTION": "炎魔之王會對一名敵人造成80點火焰傷害"
+  }
+
+}
