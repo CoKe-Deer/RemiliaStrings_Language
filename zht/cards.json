@@ -173,6 +173,32 @@
   "RemiliaMod:CYMZW": {
     "NAME": "拉格納羅斯",
     "DESCRIPTION": "炎魔之王會對一名敵人造成80點火焰傷害"
+  },
+  "RemiliaMod:CMADBY": {
+  "NAME": "大不夜 (高級)",
+  "DESCRIPTION": " 魔法A 對所有怪物造成八次 !D! 點 魔法傷害 ， 升級全部 給與所有怪物 相對數 的 虛弱 與 易傷 需要八層 符文準備 ",
+  "UPGRADE_DESCRIPTION": " 需要八層 符文準備 "
+},
+  "RemiliaMod:CJNYSFZ": {
+    "NAME": "易傷反轉",
+    "DESCRIPTION": " 蕾米莉亞 運用一點技巧，反轉敵人和自己的易傷層數，獲得6+差值 格擋 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CJNXRFZ": {
+    "NAME": "虛弱反轉",
+    "DESCRIPTION": " 蕾米莉亞 運用一點技巧，反轉敵人和自己的虛弱層數，獲得6+差值 格擋 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CJNLLFZ": {
+    "NAME": "力量反轉",
+    "DESCRIPTION": " 蕾米莉亞 運用一點技巧，反轉敵人和自己的力量層數，獲得6+差值 格擋 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CJNMJFZ": {
+    "NAME": "敏捷反轉",
+    "DESCRIPTION": " 蕾米莉亞 運用一點技巧，反轉敵人和自己的敏捷層數，獲得6+差值 格擋 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
   }
+
 
 }

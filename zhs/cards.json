@@ -89,7 +89,6 @@
   "NAME": "大神枪 (高级)",
   "DESCRIPTION": " 魔法A 对所有怪物造成四次 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要四层 符文准备 与 红雾异变 ",
     "UPGRADE_DESCRIPTION": " 需要四层 符文准备 与 红雾异变"
-
 },
   "RemiliaMod:CPHwYb": {
     "NAME": "红雾异变",
@@ -173,5 +172,30 @@
   "RemiliaMod:CYMZW": {
     "NAME": "拉格纳罗斯",
     "DESCRIPTION": "炎魔之王会对一名敌人造成80点火焰伤害"
+  },
+  "RemiliaMod:CMADBY": {
+    "NAME": "大不夜 (高级)",
+    "DESCRIPTION": " 魔法A 对所有怪物造成八次 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要八层 符文准备 ",
+    "UPGRADE_DESCRIPTION": " 需要八层 符文准备 "
+  },
+  "RemiliaMod:CJNYSFZ": {
+    "NAME": "易伤反转",
+    "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的易伤层数，获得6+差值 格挡 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CJNXRFZ": {
+    "NAME": "虚弱反转",
+    "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的虚弱层数，获得6+差值 格挡 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CJNLLFZ": {
+    "NAME": "力量反转",
+    "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的力量层数，获得6+差值 格挡 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CJNMJFZ": {
+    "NAME": "敏捷反转",
+    "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的敏捷层数，获得6+差值 格挡 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
   }
 }
