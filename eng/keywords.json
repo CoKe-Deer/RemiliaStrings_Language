@@ -1,0 +1,96 @@
+{
+  "KAattack": {
+      "NAMES": [
+        "Segment A","Segment a"
+      ],
+      "DESCRIPTION": "The card is the initial card of a series of attacks #b 。"
+    },
+  "KMABianfuzhen": {
+    "NAMES": [
+      "Magic A","Magic a","MA","ma"
+    ],
+    "DESCRIPTION": "This card is one of the magic cards in the Magic A series. #b 。"
+  },
+  "KallUp": {
+      "NAMES": [
+        "Upgrade all"
+      ],
+      "DESCRIPTION": "Upgrade this card once it is played. #b 。"
+    },
+  "KLianduan": {
+      "NAMES": [
+        "Second type"
+      ],
+      "DESCRIPTION": "The card is a derivative of a series of three hits. #b 。"
+    },
+  "Kwl": {
+    "NAMES": [
+      "physical",
+      "Physical attack",
+      "Physical damage"
+    ],
+    "DESCRIPTION": "Miss Remilia is one of the types of attack damage."
+  },
+  "Kmf": {
+    "NAMES": [
+      "magic",
+      "Magic attack",
+      "Magic damage"
+    ],
+    "DESCRIPTION": "Miss Remilia is one of the types of attack damage."
+  },
+  "KXDS": {
+  "NAMES": [
+    "Relative number",
+    "relatively"
+  ], "DESCRIPTION": "Start relative to one, gain experience through combat."
+  },
+  "Kwljc": {
+    "NAMES": [
+      "Physical bonus","physical bonus"
+    ],
+    "DESCRIPTION": "Physical bonuses can cause additional damage from physical attacks."
+    },
+  "Kmfjc": {
+  "NAMES": [
+    "Magic bonus","magic bonus"
+  ],
+  "DESCRIPTION": "Magic bonuses give magical attacks extra damage and effects."
+},
+  "KLMLY": {
+    "NAMES": [
+      "Remilia"
+    ],
+    "DESCRIPTION": "Remelia is the owner of the Red Devils."
+  },
+  "KFkxt": {
+    "NAMES": [
+      "Card preparation","Rune power"
+    ],
+    "DESCRIPTION": "Remelia must have a card preparation to release the intermediate and above magic."
+  },
+  "KFX": {
+    "NAMES": [
+      "flight"
+    ],
+    "DESCRIPTION": "The permanent flight status of Remilia."
+  },
+  "KHWYB": {
+  "NAMES": [
+    "Red fog change"
+  ],
+  "DESCRIPTION": "Remelia made a change and changed the environment of the entire fantasy town."
+},
+  "KFWZB": {
+  "NAMES": [
+    "Rune preparation"
+  ],
+  "DESCRIPTION": "#yThe number of layers of runes."
+},
+  "KQNXXG": {
+  "NAMES": [
+    "Millennium Vampire"
+  ],
+  "DESCRIPTION": "#y Remelia's ability to cultivate for the millennium."
+}
+}

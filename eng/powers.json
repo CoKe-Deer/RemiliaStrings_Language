@@ -1,0 +1,40 @@
+{
+    "RemiliaMod:PLZYCY": {
+      "NAME": "From the different dimension - Th123",
+      "DESCRIPTIONS": [
+          " obtain",
+          " Point physical bonus ",
+          " Point magic bonus."
+      ]
+    },
+   "RemiliaMod:PFWZL": {
+    "NAME": "Rune power",
+    "DESCRIPTIONS": [
+      " From the power of distant aliens. "
+    ]
+   },
+  "RemiliaMod:PHWYB": {
+    "NAME": "Red fog change",
+    "DESCRIPTIONS": [
+      " Remilia made a change and changed the environment of the entire fantasy town. ",
+      "Add X Red Magic to your hand every turn."
+    ]
+  },
+  "RemiliaMod:PQNXXG": {
+    "NAME": "Millennium Vampire",
+    "DESCRIPTIONS": [
+      "Remilia's ability to revive the millennium",
+      "Respond every time an attack card is played 3 + the number of layers of this ability",
+      "Add a thousand years of vampires per turn",
+      "Get a little agility and strength every turn",
+      "At the beginning of the round, two selection cards are given."
+    ]
+  },
+  "Flight2": {
+    "NAME": "Flight mode",
+    "DESCRIPTIONS": [
+      "Reduce the #y attack damage you receive by #b50%. If it is #y attacked in a round, it hurts #b",
+      " Once, it will be cancelled."
+    ]
+  }
+  }

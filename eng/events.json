@@ -1,0 +1,18 @@
+{
+  "Remilia_CDSJ09": {
+    "NAME": "Easter egg",
+    "DESCRIPTIONS": [
+      "When you walk through a corridor, you see the sky ~ floating ~ #y a Lich King, #y a Ragnaros the Firelord. No... take a closer look, they are all tied with rope and suspended from several holes in the ceiling. As you approached these things, there seemed to be a burst of laughter at the top. NL, what do you do?",
+      "You took away the #y Lich King, it is very nutritious, it seems that there are still some #b magic replies 20 points of health.",
+      "You took away #y Ragnaros the Firelord, it is so delicious! Your maximum health has increased.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Lich King]  #g reply  #g",
+      " #gHP。",
+      "[Ragnaros the Firelord] #gMaximum health #g+",
+      " #g。",
+      "[leave]"
+    ]
+  }
+}

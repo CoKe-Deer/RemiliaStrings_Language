@@ -1,0 +1,34 @@
+{
+  "RemiliaMod:RXiangDui": {
+    "NAME": "Relative grade",
+    "FLAVOR": "As a ramie, you will start practicing from the relative 1 until...",
+    "DESCRIPTIONS": [
+      "Your relative number will determine your magic bonus and physical bonus.",
+      "Remilia gains the ability to learn from the East and the East."
+    ]
+  },
+  "RemiliaMod:RFkXt": {
+  "NAME": "Card system",
+  "FLAVOR": "Remilia will convert junior cards to better cards",
+  "DESCRIPTIONS": [
+    "When there are three bat arrays (primary magic), add a small gun to the hand.",
+    "When there are three bats (intermediate magic), it will be consumed, and a small night will be added to the hand.",
+    "Right click on the relic to get a card ready",
+    "Start with a layer of rune power"
+  ]
+},
+  "RemiliaMod:RHW": {
+    "NAME": "Red fog",
+    "FLAVOR": "Enhance the red mist of Remilia.",
+    "DESCRIPTIONS": [
+      "Enhance a layer of red fog effect per turn,Give the character a little strength"
+    ]
+  },
+  "RemiliaMod:RLLDDJ": {
+    "NAME": "The cost of different dimension power",
+    "FLAVOR": "Unavoidable price.",
+    "DESCRIPTIONS": [
+      "At the beginning of the round, give yourself a layer of weakness,tow strength, and the enemy gets a little strength."
+    ]
+  }
+}
