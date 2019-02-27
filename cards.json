@@ -42,7 +42,7 @@
   },
   "RemiliaMod:CFTAttack": {
   "NAME": "Flying kick",
-  "DESCRIPTION": "Remilia caused two! D! points physical damage. There must be a flight on the body to effectively give the enemy a layer of weakness. Upgrade all.",
+  "DESCRIPTION": "Remilia caused two !D! points physical damage. There must be a flight on the body to effectively give the enemy a layer of weakness. Upgrade all.",
   "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CDB": {
@@ -52,7 +52,7 @@
   },
   "RemiliaMod:CD6B": {
   "NAME": "Ground harassment 6B",
-  "DESCRIPTION": "Remilia caused four times! D! Point Physical damage Gives the enemy! M! Layer Weakness.",
+  "DESCRIPTION": "Remilia caused four times !D! Point Physical damage Gives the enemy !M! Layer Weakness.",
   "UPGRADE_DESCRIPTION": "  "
 },
   "RemiliaMod:CJDB": {
@@ -77,12 +77,12 @@
   },
   "RemiliaMod:CMAXSq": {
   "NAME": "Small gun",
-  "DESCRIPTION": "Magic A causes all monsters! D! Points Magic damage, upgrade all Give all monsters Relative weakness and vulnerability Two layers of rune preparation ",
+  "DESCRIPTION": "Magic A causes all monsters !D! Points Magic damage, upgrade all Give all monsters Relative weakness and vulnerability Two layers of rune preparation ",
   "UPGRADE_DESCRIPTION": "Need two layers of rune preparation"
   },
   "RemiliaMod:CMODSq": {
   "NAME": "Great Gun",
-  "DESCRIPTION": "Magic A deals four times on all monsters! D! Points magic damage, upgrades all to all monsters. Relatives are weak and vulnerable. Requires four layers of runes to prepare and red fog .",
+  "DESCRIPTION": "Magic A deals four times on all monsters !D! Points magic damage, upgrades all to all monsters. Relatives are weak and vulnerable. Requires four layers of runes to prepare and red fog .",
   "UPGRADE_DESCRIPTION": "Need four layers of rune preparation and red fog change"
 },
   "RemiliaMod:CPHwYb": {
@@ -92,7 +92,7 @@
   },
   "RemiliaMod:CHMF": {
     "NAME": "Red magic",
-    "DESCRIPTION": "Remilia gives the basic power to all enemies! D! Points Magical damage Gives enemies!M! Poisoning Requires red fog change Nothing",
+    "DESCRIPTION": "Remilia gives the basic power to all enemies !D! Points Magical damage Gives enemies!M! Poisoning Requires red fog change Nothing",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CPXsg": {
@@ -146,7 +146,7 @@
   },
   "RemiliaMod:CMAXBY": {
   "NAME": "Small night ",
-  "DESCRIPTION": " Magic A deals four times on all monsters! D! Points Magic damage, upgrades all Gives all monsters Relative weakness and vulnerability. Requires three layers of Rune Preparation",
+  "DESCRIPTION": " Magic A deals four times on all monsters !D! Points Magic damage, upgrades all Gives all monsters Relative weakness and vulnerability. Requires three layers of Rune Preparation",
   "UPGRADE_DESCRIPTION": "Need three layers of rune preparation"
 },
   "RemiliaMod:CJNSP": {
@@ -155,11 +155,11 @@
 },
   "RemiliaMod:CJNSJDF": {
     "NAME": "Waiting for an opportunity",
-    "DESCRIPTION": "Get two layers of double-shot effect Give yourself! M! Layer is vulnerable and weak"
+    "DESCRIPTION": "Get two layers of double-shot effect Give yourself !M! Layer is vulnerable and weak"
   },
   "RemiliaMod:CJNCMSS": {
     "NAME": "Silent killer",
-    "DESCRIPTION": "Double the next two rounds of damage to yourself! M! Layer is vulnerable and weak"
+    "DESCRIPTION": "Double the next two rounds of damage to yourself !M! Layer is vulnerable and weak"
   },
   "RemiliaMod:CWYW": {
     "NAME": "Lich King",
@@ -175,7 +175,7 @@
   },
   "RemiliaMod:CMADBY": {
   "NAME": "Big night (advanced)",
-  "DESCRIPTION": " Magic A deals eight times on all monsters! D! Points Magic damage, upgrades all Gives all monsters Relative weakness and vulnerability. Requires eight layers Rune preparation ",
+  "DESCRIPTION": " Magic A deals eight times on all monsters !D! Points Magic damage, upgrades all Gives all monsters Relative weakness and vulnerability. Requires eight layers Rune preparation ",
   "UPGRADE_DESCRIPTION": " Need eight layers of rune preparation "
 },
   "RemiliaMod:CJNYSFZ": {
