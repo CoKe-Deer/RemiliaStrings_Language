@@ -1,0 +1,176 @@
+{
+  "RemiliaMod:Scratch": {
+    "NAME": "Sniper",
+    "DESCRIPTION": " Remilia causes a basic physical attack to cause !D! points damage.",
+	"EXTENDED_DESCRIPTION": [
+      "Physical  attack",
+      "One of the ways of attacking Emilia"
+    ]
+  },
+  "RemiliaMod:Defend": {
+    "NAME": "Hold your head",
+    "DESCRIPTION": "Remilia Holds her head and gets it! B! Point block.",
+	"EXTENDED_DESCRIPTION": [
+      "Hold your head",
+      "One of Remilia’s defenses"
+    ]
+  },
+  "RemiliaMod:CAattack": {
+    "NAME": "Segment A",
+    "DESCRIPTION": "Deal !D! points damage, draw 1 card and Upgrade this card for the rest of the combat. After playing three times, add Segment A second to your hand,",
+    "UPGRADE_DESCRIPTION": "Upgrade all the A segment Remilia attack even when A physical attack with paragraphs will play twice a second attack A group play this card type Jia Ruka"
+  },
+  "RemiliaMod:CAattack_t": {
+    "NAME": "Segment A second",
+    "DESCRIPTION": "Deal !D! Physical damage twice. Add Segment A final form to your hand. Upgrade this card for the rest of combat ",
+    "UPGRADE_DESCRIPTION": "a connected segment After playing once, the consumption is upgraded all A second type causes !D! point damage. Every time you have a card with a name in it, upgrade all."
+  },
+  "RemiliaMod:CAattack_s": {
+    "NAME": "Segment A final form",
+    "DESCRIPTION": "Deals !D! Physical damage to all enemies. Exhausts ",
+    "UPGRADE_DESCRIPTION": "After a single shot, the upgrade will be all upgraded. The final stage A will result in !D! point damage. Every time you have a card with a name in it, upgrade all."
+  },
+  "RemiliaMod:CFx": {
+    "NAME": "Flight mode",
+    "DESCRIPTION": "Gain flight for the rest of combat",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CFxAttack": {
+    "NAME": "Flying blow",
+    "DESCRIPTION": "Deal !D! physical damage. Upgrade this card for the rest of combat. Does nothing if you are not in flight ",
+    "UPGRADE_DESCRIPTION": "Need to have flight mode."
+  },
+  "RemiliaMod:CFTAttack": {
+  "NAME": "Flying kick",
+  "DESCRIPTION": "Remilia caused two! D! points physical damage. There must be a flight on the body to effectively give the enemy a layer of weakness. Upgrade all.",
+  "UPGRADE_DESCRIPTION": "Need to have flight mode."
+  },
+  "RemiliaMod:CDB": {
+  "NAME": "Ground harassment B",
+  "DESCRIPTION": "Remelia caused four times !D! Point Physical damage Gives the enemy !M! Layer is easy to hurt.",
+  "UPGRADE_DESCRIPTION": "  "
+  },
+  "RemiliaMod:CD6B": {
+  "NAME": "Ground harassment 6B",
+  "DESCRIPTION": "Remilia caused four times! D! Point Physical damage Gives the enemy! M! Layer Weakness.",
+  "UPGRADE_DESCRIPTION": "  "
+},
+  "RemiliaMod:CJDB": {
+    "NAME": "Flight harassment B",
+    "DESCRIPTION": "Remilia causes four times !D! Points Physical damage Gives enemies !M! Layers are vulnerable and must be flying Draw one card to be effective.",
+    "UPGRADE_DESCRIPTION": "Need to have flight mode."
+  },
+  "RemiliaMod:CSlAttack": {
+    "NAME": "Thang Long",
+    "DESCRIPTION": "Remilia caused three times !D! Point Physical damage Destroy the enemy's block Upgrade all",
+    "UPGRADE_DESCRIPTION": " fee TEST -1 "
+  },
+  "RemiliaMod:CMABianfuzhen": {
+    "NAME": "Bat array",
+    "DESCRIPTION": "Magic A deals !D! points to all monsters. Upgrade all , draw one card",
+    "UPGRADE_DESCRIPTION": "Magic A Remelia's Magical Damage Attack Magic A"
+  },
+  "RemiliaMod:CMADc": {
+  "NAME": "Bat",
+  "DESCRIPTION": "Magic A causes ten times !D! Points Magic damage. Need a layer of runes ready to upgrade all",
+  "UPGRADE_DESCRIPTION": "Need a layer of rune preparation."
+  },
+  "RemiliaMod:CMAXSq": {
+  "NAME": "Small gun",
+  "DESCRIPTION": "Magic A causes all monsters! D! Points Magic damage, upgrade all Give all monsters Relative weakness and vulnerability Two layers of rune preparation ",
+  "UPGRADE_DESCRIPTION": "Need two layers of rune preparation"
+  },
+  "RemiliaMod:CMODSq": {
+  "NAME": "Great Gun",
+  "DESCRIPTION": "Magic A deals four times on all monsters! D! Points magic damage, upgrades all to all monsters. Relatives are weak and vulnerable. Requires four layers of runes to prepare and red fog .",
+  "UPGRADE_DESCRIPTION": "Need four layers of rune preparation and red fog change"
+},
+  "RemiliaMod:CPHwYb": {
+    "NAME": "Red fog change",
+    "DESCRIPTION": "Emilia will get red fog in this battle.",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CHMF": {
+    "NAME": "Red magic",
+    "DESCRIPTION": "Remilia gives the basic power to all enemies! D! Points Magical damage Gives enemies!M! Poisoning Requires red fog change Nothing",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CPXsg": {
+    "NAME": "Millennium Vampire",
+    "DESCRIPTION": "Remilia will win the Millennium Vampire in this battle.",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CFPLL": {
+    "NAME": "Allocating power",
+    "DESCRIPTION": "Remilia gets a little power, loses a little, is agile, nothing",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CFPMJ": {
+    "NAME": "Allocation agile",
+    "DESCRIPTION": "Remilia gets a little agility, loses a little power, nothing",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CPFWZL": {
+    "NAME": "Rune Power",
+    "DESCRIPTION": "Get a layer of card preparation",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CPZQ": {
+    "NAME": "Enhanced",
+    "DESCRIPTION": "Gain relative experience, 100 points, gain a layer of strength",
+    "UPGRADE_DESCRIPTION": " Fee -1"
+  },
+  "RemiliaMod:CJNGSYD": {
+    "NAME": "High speed movement",
+    "DESCRIPTION": "Pump !M! Card Lost !M! Card "
+  },
+  "RemiliaMod:CJNJQFY": {
+    "NAME": "Smart defense",
+    "DESCRIPTION": "Pump !M! Card Lose a card to get !B! Point Block "
+  },
+  "RemiliaMod:CJNFWZL": {
+    "NAME": "Rune Power (Gold)",
+    "DESCRIPTION": "Get a layer of cards ready to draw a card to get !B! point block"
+  },
+  "RemiliaMod:CMEJNS": {
+    "NAME": "Mal'Ganis",
+    "DESCRIPTION": "Add 10 points to the upper limit of the blood to gain a barrier, gain 820 points, get 3280 layers without entities. All enemies lose 999 points."
+  },
+  "RemiliaMod:CJNCJFJ": {
+  "NAME": "Waste utilization",
+  "DESCRIPTION": "Consume three cards and get three points of energy consumption"
+},
+  "RemiliaMod:CJNHS": {
+    "NAME": "Trash can",
+    "DESCRIPTION": "Consume a card. NL gets equal to its energy consumption [B]  "
+  },
+  "RemiliaMod:CMAXBY": {
+  "NAME": "Small night ",
+  "DESCRIPTION": " Magic A deals four times on all monsters! D! Points Magic damage, upgrades all Gives all monsters Relative weakness and vulnerability. Requires three layers of Rune Preparation",
+  "UPGRADE_DESCRIPTION": "Need three layers of rune preparation"
+},
+  "RemiliaMod:CJNSP": {
+  "NAME": "Burn card",
+  "DESCRIPTION": "Consume a card, draw a card, get 3 points, block "
+},
+  "RemiliaMod:CJNSJDF": {
+    "NAME": "Waiting for an opportunity",
+    "DESCRIPTION": "Get two layers of double-shot effect Give yourself! M! Layer is vulnerable and weak"
+  },
+  "RemiliaMod:CJNCMSS": {
+    "NAME": "Silent killer",
+    "DESCRIPTION": "Double the next two rounds of damage to yourself! M! Layer is vulnerable and weak"
+  },
+  "RemiliaMod:CWYW": {
+    "NAME": "Lich King",
+    "DESCRIPTION": "The Lich King will give you the Frostmourne "
+  },
+  "RemiliaMod:CSZBS": {
+    "NAME": "Frostmourne",
+    "DESCRIPTION": "This epic weapon will give you 7 points of power."
+  },
+  "RemiliaMod:CYMZW": {
+    "NAME": "Ragnaros the Firelord",
+    "DESCRIPTION": "Ragnaros the Firelord Deals 80 Fire damage to an enemy"
+  }
+}
