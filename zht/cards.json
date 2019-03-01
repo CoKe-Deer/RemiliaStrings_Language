@@ -136,7 +136,7 @@
   },
   "RemiliaMod:CJNFWZL": {
     "NAME": "符文之力（金色）",
-    "DESCRIPTION": " 獲得一層 符卡準備 抽一張牌 獲得 !B! 點 格擋 "
+    "DESCRIPTION": " 獲得 !M! 層 符卡準備 抽 !M! 張牌 獲得 !B! 點 格擋 "
   },
   "RemiliaMod:CMEJNS": {
     "NAME": "瑪爾加尼斯",
@@ -168,7 +168,7 @@
   },
   "RemiliaMod:CSZBS": {
     "NAME": "霜之哀傷",
-    "DESCRIPTION": "這把史詩級武器將給你7點 力量"
+    "DESCRIPTION": "這把史詩級武器將給你70點 力量"
   },
   "RemiliaMod:CYMZW": {
     "NAME": "拉格納羅斯",
@@ -198,7 +198,55 @@
     "NAME": "敏捷反轉",
     "DESCRIPTION": " 蕾米莉亞 運用一點技巧，反轉敵人和自己的敏捷層數，獲得6+差值 格擋 ",
     "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CPBZMF": {
+    "NAME": "暴走模式",
+    "DESCRIPTION": " 力量本身並不可怕，可怕的是他的主人。 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CPFPDLL": {
+  "NAME": "分配大力量",
+  "DESCRIPTION": " 獲得6點 力量 ,失去6點 敏捷 ，抽 !M! 張牌 ， 消耗 ",
+  "UPGRADE_DESCRIPTION": " 費用-1 "
+},
+  "RemiliaMod:CFPDMJ": {
+    "NAME": "分配大敏捷",
+    "DESCRIPTION": " 獲得6點 敏捷 ,失去6點 力量 ，抽 !M! 張牌 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CPQHZZ": {
+    "NAME": "強化爪子（毒）",
+    "DESCRIPTION": "每有一次攻擊造成未被格擋的傷害，就給予 !M! 層 中毒 。 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
+  },
+  "RemiliaMod:CJNWYXD": {
+  "NAME": "初級瀟灑",
+  "DESCRIPTION": "給與你 !M! 把16夜的小刀，獲得4點 格擋 ， 消耗 ",
+  "UPGRADE_DESCRIPTION": " 給與你 !M! 升級過女僕的小刀 獲得4點 格擋， 消耗 "
+},
+  "RemiliaMod:CJNWYXD2": {
+    "NAME": "中級瀟灑",
+    "DESCRIPTION": "給與你 !M! 把16夜的小刀，獲得6點 格擋 ，抽一張牌， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 給與你 !M! 升級過女僕的小刀 獲得6點 格擋 抽一張牌， 消耗 "
+  },
+  "RemiliaMod:CJNWYXD3": {
+    "NAME": "高級瀟灑",
+    "DESCRIPTION": "給與你 !M! 把16夜的小刀 ，抽一張牌，獲得一層 符文之力 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 給與你 !M! 升級過女僕的小刀  抽一張牌，獲得一層 符文之力， 消耗 "
+  },
+  "RemiliaMod:CPWYXD": {
+    "NAME": "無限小刀",
+    "DESCRIPTION": "給與你 無限小刀 能力，該能力每回合給你Y張女僕的小刀。 ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "RemiliaMod:CWYXD": {
+    "NAME": "女僕的小刀",
+    "DESCRIPTION": "該小刀是16夜給與你的，造成 !D! 點 物理傷害 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 費用-1 "
   }
+
+
+
 
 
 }

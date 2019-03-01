@@ -16,12 +16,26 @@
     "右击遗物获得一张 符卡准备 ",
     "开局获得 一层 符文之力 "
   ]
-},
+ },
+  "RemiliaMod:RWYXT": {
+    "NAME": "外援系统",
+    "FLAVOR": "提高外援的强度。",
+    "DESCRIPTIONS": [
+      "一回合内打出三把16夜的小刀，恢复1点生命值，获得一点符文之力"
+    ]
+  },
   "RemiliaMod:RHW": {
     "NAME": "红雾",
     "FLAVOR": "增强蕾米莉亚的红雾异变。",
     "DESCRIPTIONS": [
       "每回合增强一层红雾效果,给与人物一点力量"
+    ]
+  },
+  "RemiliaMod:RWYXD": {
+    "NAME": "小刀",
+    "FLAVOR": "增强无限小刀能力。",
+    "DESCRIPTIONS": [
+      "每回合增强一层无限小刀能力"
     ]
   },
   "RemiliaMod:RLLDDJ": {

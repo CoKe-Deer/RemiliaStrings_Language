@@ -130,7 +130,7 @@
   },
   "RemiliaMod:CJNFWZL": {
     "NAME": "Rune Power (Gold)",
-    "DESCRIPTION": "Get a layer of cards ready to draw a card to get !B! point block"
+    "DESCRIPTION": "Get !M! layer of cards ready to draw !M! card to get !B! point block"
   },
   "RemiliaMod:CMEJNS": {
     "NAME": "Mal'Ganis",
@@ -167,7 +167,7 @@
   },
   "RemiliaMod:CSZBS": {
     "NAME": "Frostmourne",
-    "DESCRIPTION": "This epic weapon will give you 7 points of power."
+    "DESCRIPTION": "This epic weapon will give you 70 points of power."
   },
   "RemiliaMod:CYMZW": {
     "NAME": "Ragnaros the Firelord",
@@ -197,6 +197,52 @@
     "NAME": "Agile reversal",
     "DESCRIPTION": " Emilia uses a little trick to reverse the enemy and their agile layers to get a 6+ difference block. ",
     "UPGRADE_DESCRIPTION": " fee-1 "
+  },
+  "RemiliaMod:CPBZMF": {
+    "NAME": "Runaway mode",
+    "DESCRIPTION": " Power itself is not terrible, terrible is his master。 ",
+    "UPGRADE_DESCRIPTION": " Fee-1 "
+  },
+  "RemiliaMod:CPFPDLL": {
+  "NAME": "Allocating great",
+  "DESCRIPTION": " Get 6 points power, lose 6 points agility, pump !M! card, consume ",
+  "UPGRADE_DESCRIPTION": " Fee-1 "
+},
+  "RemiliaMod:CFPDMJ": {
+    "NAME": "Large agile",
+    "DESCRIPTION": " Get 6 points agility, lose 6 points power, pump !M! card, consume ",
+    "UPGRADE_DESCRIPTION": " Fee-1 "
+  },
+  "RemiliaMod:CPQHZZ": {
+    "NAME": "Paws (poisonous)",
+    "DESCRIPTION": "Give !M! layers of poisoning every time an attack causes unblocked damage.  ",
+    "UPGRADE_DESCRIPTION": " Fee-1 "
+  },
+  "RemiliaMod:CJNWYXD": {
+  "NAME": "Primary chic",
+  "DESCRIPTION": "Give you !M! Take the 16-night knife and get 4 blocks, consume ",
+  "UPGRADE_DESCRIPTION": " Give you !M! Upgraded the maid's knife to get 4 points block, consume "
+},
+  "RemiliaMod:CJNWYXD2": {
+    "NAME": "Intermediate chic",
+    "DESCRIPTION": "Give you !M! Take the 16-night knife, get 6 points, draw a card, consume ",
+    "UPGRADE_DESCRIPTION": " Give you !M! Upgraded the maid's knife to get 6 points Block, draw a card, consume "
+  },
+  "RemiliaMod:CJNWYXD3": {
+    "NAME": "Advanced chic",
+    "DESCRIPTION": "Give you !M! Put a 16-night knife, draw a card, get a layer of rune power, consume ",
+    "UPGRADE_DESCRIPTION": " Give you !M! Upgraded the maid's knife, draw a card, gain a layer of rune power, consume "
+  },
+  "RemiliaMod:CPWYXD": {
+    "NAME": "Infinite knife",
+    "DESCRIPTION": "Give you the infinite knife ability, which gives you a maid's knife every turn. ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "RemiliaMod:CWYXD": {
+    "NAME": "Maid's knife",
+    "DESCRIPTION": "The knife is given to you for 16 nights, causing !D! points physical damage, consumption ",
+    "UPGRADE_DESCRIPTION": "  "
   }
+
 
 }

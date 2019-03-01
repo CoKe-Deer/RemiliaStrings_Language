@@ -30,5 +30,20 @@
     "DESCRIPTIONS": [
       "At the beginning of the round, give yourself a layer of weakness,tow strength, and the enemy gets a little strength."
     ]
+  },
+  "RemiliaMod:RWYXT": {
+    "NAME": "Foreign aid system",
+    "FLAVOR": "Improve the strength of foreign aid。",
+    "DESCRIPTIONS": [
+      "Play three 16-night knives in one round, restore 1 point of health, and gain a little rune"
+    ]
+  },
+
+  "RemiliaMod:RWYXD": {
+    "NAME": "Knife",
+    "FLAVOR": "Enhanced infinite knife ability。",
+    "DESCRIPTIONS": [
+      "Enhance one layer of infinite knife ability per turn"
+    ]
   }
 }

@@ -135,7 +135,7 @@
   },
   "RemiliaMod:CJNFWZL": {
     "NAME": "符文之力（金色）",
-    "DESCRIPTION": " 获得一层 符卡准备 抽一张牌 获得 !B! 点 格挡 "
+    "DESCRIPTION": " 获得 !M! 层 符卡准备 抽 !M! 张牌 获得 !B! 点 格挡 "
   },
   "RemiliaMod:CMEJNS": {
     "NAME": "玛尔加尼斯",
@@ -167,7 +167,7 @@
   },
   "RemiliaMod:CSZBS": {
     "NAME": "霜之哀伤",
-    "DESCRIPTION": "这把史诗级武器将给你7点 力量"
+    "DESCRIPTION": "这把史诗级武器将给你70点 力量"
   },
   "RemiliaMod:CYMZW": {
     "NAME": "拉格纳罗斯",
@@ -197,5 +197,50 @@
     "NAME": "敏捷反转",
     "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的敏捷层数，获得6+差值 格挡 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
-  }
+  },
+  "RemiliaMod:CPBZMF": {
+    "NAME": "暴走模式",
+    "DESCRIPTION": " 力量本身并不可怕，可怕的是他的主人。 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CPFPDLL": {
+  "NAME": "分配大力量",
+  "DESCRIPTION": " 获得6点 力量 ,失去6点 敏捷 ，抽 !M! 张牌 ， 消耗 ",
+  "UPGRADE_DESCRIPTION": " 费用-1 "
+},
+  "RemiliaMod:CFPDMJ": {
+  "NAME": "分配大敏捷",
+  "DESCRIPTION": " 获得6点 敏捷 ,失去6点 力量 ，抽 !M! 张牌 ， 消耗 ",
+  "UPGRADE_DESCRIPTION": " 费用-1 "
+},
+  "RemiliaMod:CPQHZZ": {
+    "NAME": "强化爪子（毒）",
+    "DESCRIPTION": "每有一次攻击造成未被格挡的伤害，就给予 !M! 层 中毒 。 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CJNWYXD": {
+    "NAME": "初级潇洒",
+    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得4点 格挡 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得4点 格挡， 消耗 "
+  },
+  "RemiliaMod:CJNWYXD2": {
+    "NAME": "中级潇洒",
+    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得6点 格挡 ，抽一张牌， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得6点 格挡 抽一张牌， 消耗 "
+  },
+  "RemiliaMod:CJNWYXD3": {
+    "NAME": "高级潇洒",
+    "DESCRIPTION": "给与你 !M! 把16夜的小刀 ，抽一张牌，获得一层 符文之力 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀  抽一张牌，获得一层 符文之力， 消耗 "
+  },
+  "RemiliaMod:CPWYXD": {
+    "NAME": "无限小刀",
+    "DESCRIPTION": "给与你 无限小刀 能力，该能力每回合给你Y张女仆的小刀。 ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "RemiliaMod:CWYXD": {
+  "NAME": "女仆的小刀",
+  "DESCRIPTION": "该小刀是16夜给与你的，造成 !D! 点 物理伤害 ， 消耗 ",
+  "UPGRADE_DESCRIPTION": " 费用-1 "
+}
 }

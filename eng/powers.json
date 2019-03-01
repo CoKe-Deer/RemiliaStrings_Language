@@ -36,5 +36,23 @@
       "Reduce the #y attack damage you receive by #b50%. If it is #y attacked in a round, it hurts #b",
       " Once, it will be cancelled."
     ]
+  },
+  "RemiliaMod:PBZMS": {
+  "NAME": "Runaway mode",
+  "DESCRIPTIONS": [
+    " Emilia uses the power of her existence",
+    "Double and double damage per turn",
+    "Lose 6 life per turn",
+    "Get two energy points",
+    "Draw two cards",
+    "Four layers per game, easy to hurt and weak "
+  ]
+},
+  "RemiliaMod:PWXXD": {
+    "NAME": "Infinite knife",
+    "DESCRIPTIONS": [
+      "The maid gives the upgraded knife of the ability level every turn and joins the hand of Remilia."
+    ]
   }
-  }
+
+}
