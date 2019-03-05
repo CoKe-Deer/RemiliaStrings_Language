@@ -151,7 +151,7 @@
   },
   "RemiliaMod:CJNSP": {
     "NAME": "烧牌",
-    "DESCRIPTION": "消耗 一张牌 抽一张牌 获得3点 格挡 "
+    "DESCRIPTION": "消耗 一张牌 抽一张牌 获得 !B! 点 格挡 "
   },
   "RemiliaMod:CJNSJDF": {
     "NAME": "伺机待发",
@@ -171,7 +171,7 @@
   },
   "RemiliaMod:CYMZW": {
     "NAME": "拉格纳罗斯",
-    "DESCRIPTION": "炎魔之王会对一名敌人造成80点火焰伤害"
+    "DESCRIPTION": "炎魔之王会对一名敌人造成80次 !D! 点火焰伤害"
   },
   "RemiliaMod:CMADBY": {
     "NAME": "大不夜 (高级)",
@@ -220,13 +220,13 @@
   },
   "RemiliaMod:CJNWYXD": {
     "NAME": "初级潇洒",
-    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得4点 格挡 ， 消耗 ",
-    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得4点 格挡， 消耗 "
+    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得 !B! 点 格挡 ， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得 !B! 点 格挡， 消耗 "
   },
   "RemiliaMod:CJNWYXD2": {
     "NAME": "中级潇洒",
-    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得6点 格挡 ，抽一张牌， 消耗 ",
-    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得6点 格挡 抽一张牌， 消耗 "
+    "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得 !B! 点 格挡 ，抽一张牌， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得 !B! 点 格挡 抽一张牌， 消耗 "
   },
   "RemiliaMod:CJNWYXD3": {
     "NAME": "高级潇洒",
@@ -242,5 +242,60 @@
   "NAME": "女仆的小刀",
   "DESCRIPTION": "该小刀是16夜给与你的，造成 !D! 点 物理伤害 ， 消耗 ",
   "UPGRADE_DESCRIPTION": " 费用-1 "
-}
+},
+  "RemiliaMod:CBYZLC": {
+    "NAME": "八云紫asdasd....",
+    "DESCRIPTION": "需要 十层 符文准备 ，造成三次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要十层 符文准备 "
+  },
+  "RemiliaMod:CJNNPSJ": {
+    "NAME": "咲夜的世界",
+    "DESCRIPTION": "需要 十层 符文准备 ，敌人降低 !M! 点力量，这张卡还隐藏着未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要十层 符文准备 "
+  },
+  "RemiliaMod:CWYRF": {
+    "NAME": "「ロイヤルフレア」",
+    "DESCRIPTION": "需要 八层 符文准备 ，造成四十次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要八层 符文准备 "
+  },
+  "RemiliaMod:CXXSJ": {
+    "NAME": "小型法术水晶",
+    "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CZXSJ": {
+    "NAME": "中型法术水晶",
+    "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗  ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CDXSJ": {
+    "NAME": "大型法术水晶",
+    "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗  ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CPJHZZ": {
+    "NAME": "计划之中",
+    "DESCRIPTION": "回合结束保留 !M! 张手牌 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CMPA": {
+    "NAME": "魔炮碎片A",
+    "DESCRIPTION": "回复 1 点生命值 ,",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CMPB": {
+    "NAME": "魔炮碎片B",
+    "DESCRIPTION": "获得一层 荆棘 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CMPC": {
+    "NAME": "魔炮碎片C",
+    "DESCRIPTION": "获得一层 多层护甲 ",
+    "UPGRADE_DESCRIPTION": " 费用-1 "
+  },
+  "RemiliaMod:CMMDMP": {
+    "NAME": "魅魔的魔炮",
+    "DESCRIPTION": "需要 五层 符文准备 ，造成一百次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量.. ",
+    "UPGRADE_DESCRIPTION": " 需要 五层 符文准备  "
+  }
 }

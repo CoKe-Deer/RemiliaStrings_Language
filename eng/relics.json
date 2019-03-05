@@ -22,6 +22,7 @@
     "FLAVOR": "Enhance the Red Mist of Remilia.",
     "DESCRIPTIONS": [
       "Enhance one Red Mist effect per turn, Give Remilia 1 strength"
+
     ]
   },
   "RemiliaMod:RLLDDJ": {
@@ -35,7 +36,8 @@
     "NAME": "Foreign aid system",
     "FLAVOR": "Improve the strength of foreign aid。",
     "DESCRIPTIONS": [
-      "Play three 16-night knives in one round, restore 1 point of health, and gain a little rune"
+      "Play three 16-night knives in one round, restore 1 point of health, and gain tow rune",
+      "Remove the magic cannon fragments at the beginning of each turn. When there are six, the succubus's magic cannon is permanently added to the hand."
     ]
   },
 
