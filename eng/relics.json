@@ -18,17 +18,17 @@
   ]
 },
   "RemiliaMod:RHW": {
-    "NAME": "Red fog",
-    "FLAVOR": "Enhance the red mist of Remilia.",
+    "NAME": "Red Mist",
+    "FLAVOR": "Enhance the Red Mist of Remilia.",
     "DESCRIPTIONS": [
-      "Enhance a layer of red fog effect per turn,Give the character a little strength"
+      "Enhance one Red Mist effect per turn, Give Remilia 1 strength"
     ]
   },
   "RemiliaMod:RLLDDJ": {
-    "NAME": "The cost of different dimension power",
+    "NAME": "Otherworldly power has a price of its own...",
     "FLAVOR": "Unavoidable price.",
     "DESCRIPTIONS": [
-      "At the beginning of the round, give yourself a layer of weakness,tow strength, and the enemy gets a little strength."
+      "At the beginning of the round, give yourself 1 weak,2 strength, and give your ennemies 1 strength."
     ]
   },
   "RemiliaMod:RWYXT": {
