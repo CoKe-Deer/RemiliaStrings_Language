@@ -29,7 +29,7 @@
       "Physical attack",
       "Physical damage"
     ],
-    "DESCRIPTION": "Miss Remilia is one of the types of attack damage."
+    "DESCRIPTION": "One of Remilia's type of damage."
   },
   "Kmf": {
     "NAMES": [
@@ -37,13 +37,13 @@
       "Magic attack",
       "Magic damage"
     ],
-    "DESCRIPTION": "Miss Remilia is one of the types of attack damage."
+    "DESCRIPTION": "One of Remilia's type of damage."
   },
   "KXDS": {
   "NAMES": [
     "Relative number",
     "relatively"
-  ], "DESCRIPTION": "Start relative to one, gain experience through combat."
+  ], "DESCRIPTION": "Gain experience through combat."
   },
   "Kwljc": {
     "NAMES": [
@@ -61,25 +61,25 @@
     "NAMES": [
       "Remilia"
     ],
-    "DESCRIPTION": "Remelia is the owner of the Red Devils."
+    "DESCRIPTION": "Remilia is the owner of the Scarlet Devil Mansion."
   },
   "KFkxt": {
     "NAMES": [
       "Card preparation","Rune power"
     ],
-    "DESCRIPTION": "Remelia must have a card preparation to release the intermediate and above magic."
+    "DESCRIPTION": "Remilia must prepare in order to use intermediate and advanced magic."
   },
   "KFX": {
     "NAMES": [
       "flight"
     ],
-    "DESCRIPTION": "The permanent flight status of Remilia."
+    "DESCRIPTION": "Permanent Flight Status of the Vampire Princess."
   },
   "KHWYB": {
   "NAMES": [
     "Red fog change"
   ],
-  "DESCRIPTION": "Remelia made a change and changed the environment of the entire fantasy town."
+  "DESCRIPTION": "Remilia changed the whole environment of Gensokyo"
 },
   "KFWZB": {
   "NAMES": [
@@ -91,6 +91,6 @@
   "NAMES": [
     "Millennium Vampire"
   ],
-  "DESCRIPTION": "#y Remelia's ability to cultivate for the millennium."
+  "DESCRIPTION": "#y Remilia has been around for over a millenium..."
 }
 }

@@ -1,6 +1,6 @@
 {
     "RemiliaMod:PLZYCY": {
-      "NAME": "From the different dimension - Th123",
+      "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
           " obtain",
           " Point physical bonus ",
@@ -10,18 +10,18 @@
    "RemiliaMod:PFWZL": {
     "NAME": "Rune power",
     "DESCRIPTIONS": [
-      " From the power of distant aliens. "
+      "The power of one who is not a denizen of this world "
     ]
    },
   "RemiliaMod:PHWYB": {
-    "NAME": "Red fog change",
+    "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      " Remilia made a change and changed the environment of the entire fantasy town. ",
+      " Remilia changed the whole environment of Gensokyo. ",
       "Add X Red Magic to your hand every turn."
     ]
   },
   "RemiliaMod:PQNXXG": {
-    "NAME": "Millennium Vampire",
+    "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
       "Remilia's ability to revive the millennium",
       "Respond every time an attack card is played 3 + the number of layers of this ability",
@@ -40,18 +40,18 @@
   "RemiliaMod:PBZMS": {
   "NAME": "Runaway mode",
   "DESCRIPTIONS": [
-    " Emilia uses the power of her existence",
-    "Double and double damage per turn",
-    "Lose 6 life per turn",
-    "Get two energy points",
+    " Remilia uses the power of her existence",
+    "Deal double damage",
+    "Lose 6 HP per turn",
+    "Gain two energy points",
     "Draw two cards",
-    "Four layers per game, easy to hurt and weak "
+    "Four Vulnerable and Weak "
   ]
 },
   "RemiliaMod:PWXXD": {
     "NAME": "Infinite knife",
     "DESCRIPTIONS": [
-      "The maid gives the upgraded knife of the ability level every turn and joins the hand of Remilia."
+      "Your servant provides you with one knife per turn."
     ]
   }
 

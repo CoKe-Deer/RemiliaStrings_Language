@@ -174,7 +174,7 @@
     "DESCRIPTION": "Ragnaros the Firelord deals 80 Fire damage to an enemy"
   },
   "RemiliaMod:CMADBY": {
-  "NAME": "Eternal Night (Flawless)",
+  "NAME": "Eternal Night",
   "DESCRIPTION": "deals eight times !D! Points Magic damage to all, Upgrade All. Inflict Weak and Vulnerable to all. Requires 8 Runes ",
   "UPGRADE_DESCRIPTION": " Need eight layers of rune preparation "
 },
@@ -245,18 +245,18 @@
   },
   "RemiliaMod:CBYZLC": {
   "NAME": "Yukari's gift",
-  "DESCRIPTION": "Need 10 runes to prepare. Deals three! D! points magic damage. This card also has a hidden power...",
-  "UPGRADE_DESCRIPTION": " Need ten layers of rune preparation "
+  "DESCRIPTION": "Need 12 runes to prepare. Deals three !D! points magic damage. This card also has a hidden power...",
+  "UPGRADE_DESCRIPTION": " Need 12 layers of rune preparation "
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "The World",
-    "DESCRIPTION": "Require 10 Runes. Reduces the target's Strength by !M!.This card also has a hidden power...  ",
+    "DESCRIPTION": "Require 10 Runes. Reduces the target's Strength by  !M!  .This card also has a hidden power...  ",
     "UPGRADE_DESCRIPTION": " Ten levels of Rune preparation are required "
   },
   "RemiliaMod:CWYRF": {
   "NAME": "Royal flame",
-  "DESCRIPTION": "Require 8 Runes. Deal 40 damage !D! Point magic damage. This card also has a hidden power  ",
-  "UPGRADE_DESCRIPTION": " Eight layers of Rune preparation is required "
+  "DESCRIPTION": "Require 10 Runes. Deal 40 damage !D! Point magic damage. This card also has a hidden power  ",
+  "UPGRADE_DESCRIPTION": " 10 layers of Rune preparation is required "
 },
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
@@ -280,17 +280,17 @@
   },
   "RemiliaMod:CMPA": {
     "NAME": "Magic enhancement : Heal",
-    "DESCRIPTION": "Heal 1  ",
+    "DESCRIPTION": "Heal !D!  ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMPB": {
     "NAME": "Magic enhancement : Thorn",
-    "DESCRIPTION": "Gain 3 thorns ",
+    "DESCRIPTION": "Gain !D! thorns ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMPC": {
     "NAME": "Magic enhancement : Armor",
-    "DESCRIPTION": "Gain 1 Plated Armor ",
+    "DESCRIPTION": "Gain !D! Plated Armor ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMMDMP": {

@@ -245,8 +245,8 @@
 },
   "RemiliaMod:CBYZLC": {
     "NAME": "八云紫asdasd....",
-    "DESCRIPTION": "需要 十层 符文准备 ，造成三次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
-    "UPGRADE_DESCRIPTION": " 需要十层 符文准备 "
+    "DESCRIPTION": "需要 十二层 符文准备 ，造成三次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要十二层 符文准备 "
   },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "咲夜的世界",
@@ -255,8 +255,8 @@
   },
   "RemiliaMod:CWYRF": {
     "NAME": "「ロイヤルフレア」",
-    "DESCRIPTION": "需要 八层 符文准备 ，造成四十次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
-    "UPGRADE_DESCRIPTION": " 需要八层 符文准备 "
+    "DESCRIPTION": "需要 十层 符文准备 ，造成四十次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要十层 符文准备 "
   },
   "RemiliaMod:CXXSJ": {
     "NAME": "小型法术水晶",
@@ -280,17 +280,17 @@
   },
   "RemiliaMod:CMPA": {
     "NAME": "魔炮碎片A",
-    "DESCRIPTION": "回复 1 点生命值 ,",
+    "DESCRIPTION": "回复 !D! 点生命值 ,",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMPB": {
     "NAME": "魔炮碎片B",
-    "DESCRIPTION": "获得一层 荆棘 ",
+    "DESCRIPTION": "获得 !D! 层 荆棘 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMPC": {
     "NAME": "魔炮碎片C",
-    "DESCRIPTION": "获得一层 多层护甲 ",
+    "DESCRIPTION": "获得 !D! 层 多层护甲 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMMDMP": {
