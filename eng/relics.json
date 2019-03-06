@@ -1,42 +1,42 @@
 {
   "RemiliaMod:RXiangDui": {
-    "NAME": "Relative grade",
-    "FLAVOR": "As a ramie, you will start practicing from the relative 1 until...",
+    "NAME": "Experienced Devil",
+    "FLAVOR": "As a young devil, you'll learn and improve during your journey",
     "DESCRIPTIONS": [
       "Your relative number will determine your magic bonus and physical bonus.",
-      "Remilia gains the ability to learn from the East and the East."
+      "Remilia gains the ability to learn from each battle."
     ]
   },
   "RemiliaMod:RFkXt": {
   "NAME": "Card system",
-  "FLAVOR": "Remilia will convert junior cards to better cards",
+  "FLAVOR": "Remilia will convert lesser cards to better cards",
   "DESCRIPTIONS": [
-    "When there are three bat arrays (primary magic), add a small gun to the hand.",
-    "When there are three bats (intermediate magic), it will be consumed, and a small night will be added to the hand.",
+    "After playing three Bat Swarm (lesser magic), add a Small Gun to your hand.",
+    "After playing three Bat (intermediate magic), it will Exhaust, and a Lesser Night will be added to your hand.",
     "Right click on the relic to get a card ready",
-    "Start with a layer of rune power"
+    "Start with 1 rune"
   ]
 },
   "RemiliaMod:RHW": {
     "NAME": "Red Mist",
     "FLAVOR": "Enhance the Red Mist of Remilia.",
     "DESCRIPTIONS": [
-      "Enhance one Red Mist effect per turn, Give Remilia 1 strength"
+      "Enhance one Red Mist effect per turn, Give Remilia 1 Strength"
 
     ]
   },
   "RemiliaMod:RLLDDJ": {
-    "NAME": "Otherworldly power has a price of its own...",
+    "NAME": "Devil's bargain",
     "FLAVOR": "Unavoidable price.",
     "DESCRIPTIONS": [
-      "At the beginning of the round, give yourself 1 weak,2 strength, and give your ennemies 1 strength."
+      "At the beginning of the round, give yourself 1 Weak, 2 Strength, and give your ennemies 1 Strength."
     ]
   },
   "RemiliaMod:RWYXT": {
-    "NAME": "Foreign aid system",
-    "FLAVOR": "Improve the strength of foreign aid。",
+    "NAME": "Maid Service",
+    "FLAVOR": "Your servant shall assist you in battle",
     "DESCRIPTIONS": [
-      "Play three 16-night knives in one round, restore 1 point of health, and gain tow rune",
+      "If you play 3 Maid's Knives in one round, heal 1 HP, and gain 2 Rune",
       "Remove the magic cannon fragments at the beginning of each turn. When there are six, the succubus's magic cannon is permanently added to the hand."
     ]
   },
@@ -45,7 +45,7 @@
     "NAME": "Knife",
     "FLAVOR": "Enhanced infinite knife ability。",
     "DESCRIPTIONS": [
-      "Enhance one layer of infinite knife ability per turn"
+      "Enhance one infinite knife ability per turn"
     ]
   }
 }
