@@ -43,9 +43,9 @@
 
   "RemiliaMod:RWYXD": {
     "NAME": "Knife",
-    "FLAVOR": "Enhanced infinite knife ability。",
+    "FLAVOR": "Enhance infinite knife ability",
     "DESCRIPTIONS": [
-      "Enhance one infinite knife ability per turn"
+      "Add one stack of Infinite Knife per turn, giving you an additionnal Maid Knife."
     ]
   }
 }
