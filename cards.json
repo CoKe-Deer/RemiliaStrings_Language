@@ -1,15 +1,15 @@
 {
   "RemiliaMod:Scratch": {
-    "NAME": "Sniper",
+    "NAME": "Vampire Claw",
     "DESCRIPTION": "Basic physical attack that deals !D! points damage",
 	"EXTENDED_DESCRIPTION": [
       "Physical  attack",
-      "One of the ways of attacking Emilia"
+      "One of Remilia's attack"
     ]
   },
   "RemiliaMod:Defend": {
     "NAME": "Go away!",
-    "DESCRIPTION": "Remilia holds her head and cower, gaining !B! Point block.",
+    "DESCRIPTION": "Remilia holds her head and cowers, gaining !B! Block.",
 	"EXTENDED_DESCRIPTION": [
       "Hold your head",
       "One of Remilia’s defenses"
@@ -17,17 +17,17 @@
   },
   "RemiliaMod:CAattack": {
     "NAME": "Combo : First Strike",
-    "DESCRIPTION": "Deal !D! points damage, draw 1 card and Upgrade this card for the rest of the combat. After playing three times, add Combo : Second Strike  to your hand,",
+    "DESCRIPTION": "Deal !D! damage, draw 1 card and upgrade this card for the rest of the combat. Add Combo : Second Strike  to your hand,",
     "UPGRADE_DESCRIPTION": "Upgrade all the A segment Remilia attack even when A physical attack with paragraphs will play twice a second attack A group play this card type Jia Ruka"
   },
   "RemiliaMod:CAattack_t": {
     "NAME": "Combo : Second Strike",
-    "DESCRIPTION": "Deal !D! Physical damage twice. Add Combo : Final Strike to your hand. Upgrade this card for the rest of combat ",
+    "DESCRIPTION": "Deal !D! physical damage twice. Add Combo : Final Strike to your hand. Upgrade this card for the rest of combat ",
     "UPGRADE_DESCRIPTION": "a connected segment After playing once, the consumption is upgraded all A second type causes !D! point damage. Every time you have a card with a name in it, upgrade all."
   },
   "RemiliaMod:CAattack_s": {
     "NAME": "Combo : Final Strike",
-    "DESCRIPTION": "Deals !D! Physical damage to all enemies. Exhaust ",
+    "DESCRIPTION": "Deal !D! Physical damage to all enemies. Exhaust ",
     "UPGRADE_DESCRIPTION": "After a single shot, the upgrade will be all upgraded. The final stage A will result in !D! point damage. Every time you have a card with a name in it, upgrade all."
   },
   "RemiliaMod:CFx": {
@@ -42,47 +42,47 @@
   },
   "RemiliaMod:CFTAttack": {
   "NAME": "Flying kick",
-  "DESCRIPTION": "Remilia caused two !D! points physical damage. If you have flight, then apply 1 vulnerable. Upgrade all.",
+  "DESCRIPTION": "Remilia cause !D! physical damage 2 times. If you have flight, then apply 1 vulnerable. Upgrade all.",
   "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CDB": {
-  "NAME": "Ground harassment B",
-  "DESCRIPTION": "Remilia causes four times !D! Point Physical damage Gives the enemy !M! Vulnerable.",
+  "NAME": "Piercing Blow",
+  "DESCRIPTION": "Remilia causes !D! Physical damage 4 times and gives the enemy !M! Vulnerable.",
   "UPGRADE_DESCRIPTION": "  "
   },
   "RemiliaMod:CD6B": {
-  "NAME": "Ground harassment 6B",
-  "DESCRIPTION": "Remilia deals four times !D! Points Physical damage and gives the enemy !M!  Weak.",
+  "NAME": "Crippling Blow",
+  "DESCRIPTION": "Remilia deals !D! Physical damage 4 times and gives the enemy !M! Weak.",
   "UPGRADE_DESCRIPTION": "  "
 },
   "RemiliaMod:CJDB": {
-    "NAME": "Flight harassment B",
-    "DESCRIPTION": "Remilia deals four times !D! Points Physical damage, gives enemies !M! Vulnerable and draw one card. Need Flight to be effective",
+    "NAME": "Aerial Strike",
+    "DESCRIPTION": "Remilia deals !D! Physical damage 4 times, gives the ennemy !M! Vulnerable and draw one card. Need Flight to be effective",
     "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CSlAttack": {
     "NAME": "Burst Fire",
-    "DESCRIPTION": "Remilia deals three times !D! Point Physical damage. If it destroy the target's block, then Upgrade all",
+    "DESCRIPTION": "Remilia deals !D! Physical damage 3 times. If it destroy the target's block, then Upgrade all",
     "UPGRADE_DESCRIPTION": " fee TEST -1 "
   },
   "RemiliaMod:CMABianfuzhen": {
     "NAME": "Bat Swarm",
-    "DESCRIPTION": "deals !D! magical damage to all ennemies. Upgrade all and draw one card",
+    "DESCRIPTION": "Deal !D! magical damage to all ennemies. Upgrade all and draw one card. If you have 3 copy in hand, obtain Lesser Gungnir",
     "UPGRADE_DESCRIPTION": "Magic A Remelia's Magical Damage Attack Magic A"
   },
   "RemiliaMod:CMADc": {
-  "NAME": "Bat",
-  "DESCRIPTION": "Causes ten times !D! magical damage. If you have 1 rune, Upgrade All",
+  "NAME": "Vampire Bat",
+  "DESCRIPTION": "Deal !D! magical damage 10 times. If you have 1 rune, Upgrade All. If you have 3 copy in your hand, obtain Eternal Night",
   "UPGRADE_DESCRIPTION": "Need a layer of rune preparation."
   },
   "RemiliaMod:CMAXSq": {
-  "NAME": "Small gun",
-  "DESCRIPTION": "Deals !D!  Magic damage, upgrade all. Apply Weak and Vulnerable. Requires 2 Runes  ",
+  "NAME": "Lesser Gungnir",
+  "DESCRIPTION": "Deals !D!  Magic damage, upgrade all. Apply Weak and Vulnerable. Requires 2 Runes ",
   "UPGRADE_DESCRIPTION": "Need two layers of rune preparation"
   },
   "RemiliaMod:CMODSq": {
-  "NAME": "Great Gun",
-  "DESCRIPTION": "Deals !D!  magic damage to all, upgrade all. Apply weak and Vulnerable. Cannot be cast without Red Mist and 4 Runes.",
+  "NAME": "Flawless Gungnir",
+  "DESCRIPTION": "Deal !D!  magic damage to all, upgrade all. Apply Weak and Vulnerable. Require Red Mist Incident and 4 Runes.",
   "UPGRADE_DESCRIPTION": "Need four layers of rune preparation and red fog change"
 },
   "RemiliaMod:CPHwYb": {
@@ -92,7 +92,7 @@
   },
   "RemiliaMod:CHMF": {
     "NAME": "Red magic",
-    "DESCRIPTION": "Remilia deals !D! Points Magical damage to all. Gives enemies !M! Poison. Requires Red Mist Incident",
+    "DESCRIPTION": "Remilia deals !D! Magical damage to all. Apply !M! Poison. Require Red Mist Incident",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CPXsg": {
@@ -101,13 +101,13 @@
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CFPLL": {
-    "NAME": "Allocating : Offense",
-    "DESCRIPTION": "Remilia gains 1 strength in exchange for one dexterity",
+    "NAME": "Offense Switch",
+    "DESCRIPTION": "Remilia gains 1 Strength in exchange for one dexterity",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CFPMJ": {
-    "NAME": "Allocation : Defense",
-    "DESCRIPTION": "Remilia gains 1 dexterity in exchange for 1 strength",
+    "NAME": "Defense Switch",
+    "DESCRIPTION": "Remilia gains 1 Dexterity in exchange for 1 strength",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CPFWZL": {
@@ -117,28 +117,28 @@
   },
   "RemiliaMod:CPZQ": {
     "NAME": "Enhancement",
-    "DESCRIPTION": "Gain 100 experience points and 1 strength",
+    "DESCRIPTION": "Gain 100 experience points and 1 Strength",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CJNGSYD": {
-    "NAME": "High speed movement",
+    "NAME": "Swiftness",
     "DESCRIPTION": "Draw !M! and discard !M! Cards "
   },
   "RemiliaMod:CJNJQFY": {
     "NAME": "Smart defense",
-    "DESCRIPTION": "Draw !M! Card, discard 1 card to get !B! Point Block "
+    "DESCRIPTION": "Draw !M! Card, discard 1 card to get !B! Block "
   },
   "RemiliaMod:CJNFWZL": {
-    "NAME": "Greater Runic Readiness",
-    "DESCRIPTION": "Gain 1 rune, draw 1 card, gain !B! block"
+    "NAME": "Runic expertise",
+    "DESCRIPTION": "Gain 1 rune, draw 1 card, gain !B! Block"
   },
   "RemiliaMod:CMEJNS": {
     "NAME": "Mal'Ganis",
-    "DESCRIPTION": "Add 10 points to the upper limit of the blood to gain a barrier, gain 820 points, get 3280 layers without entities. All enemies lose 999 points."
+    "DESCRIPTION": "Death does not become you. Gain 820 Block and 3280 Intangible. All enemies lose 999 Strength."
   },
   "RemiliaMod:CJNCJFJ": {
     "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust three cards, gaining 3 energy"
+    "DESCRIPTION": "Exhaust three cards. Gain 3 energy"
 },
   "RemiliaMod:CJNHS": {
     "NAME": "Trash can",
@@ -146,12 +146,12 @@
   },
   "RemiliaMod:CMAXBY": {
   "NAME": "Lesser Night ",
-  "DESCRIPTION": " Deals four times !D! Points Magic damage to all, Upgrade All. Inflict Weak and Vulnerable to all. Requires 3 Runes",
+  "DESCRIPTION": " Deal !D! Magic damage 3 times to all, Upgrade All. Inflict Weak and Vulnerable to all. Requires 3 Runes",
   "UPGRADE_DESCRIPTION": "Need three layers of Rune"
 },
   "RemiliaMod:CJNSP": {
-  "NAME": "Burn card",
-  "DESCRIPTION": "Consume a card, draw a card, get !B! block "
+  "NAME": "Offering to the Lady",
+  "DESCRIPTION": "Exhaust a card, draw a card, get !B! Block "
 },
   "RemiliaMod:CJNSJDF": {
     "NAME": "Opportunistic attack",
@@ -159,63 +159,63 @@
   },
   "RemiliaMod:CJNCMSS": {
     "NAME": "Silent killer",
-    "DESCRIPTION": "Deal double damage for 2 turns, Apply !M! vulnerable and weak to yourself"
+    "DESCRIPTION": "Deal double damage for 2 turns, Apply !M! Vulnerable and Weak to yourself"
   },
   "RemiliaMod:CWYW": {
     "NAME": "Lich King",
-    "DESCRIPTION": "The Lich King will grants you the Frostmourne "
+    "DESCRIPTION": "The Lich King will grant you the Frostmourne "
   },
   "RemiliaMod:CSZBS": {
     "NAME": "Frostmourne",
-    "DESCRIPTION": "This legendary weapon will give you 70 points of Strength."
+    "DESCRIPTION": "This legendary weapon will give you 70 Strength."
   },
   "RemiliaMod:CYMZW": {
     "NAME": "Ragnaros the Firelord",
-    "DESCRIPTION": "Ragnaros the Firelord deals 80 Fire damage to an enemy"
+    "DESCRIPTION": "The Firelord deals 80 damage to an enemy"
   },
   "RemiliaMod:CMADBY": {
   "NAME": "Eternal Night",
-  "DESCRIPTION": "deals eight times !D! Points Magic damage to all, Upgrade All. Inflict Weak and Vulnerable to all. Requires 8 Runes ",
+  "DESCRIPTION": "deal !D! magic damage 8 times to all. Upgrade All. Inflict Weak and Vulnerable to all. Requires 8 Runes",
   "UPGRADE_DESCRIPTION": " Need eight layers of rune preparation "
 },
   "RemiliaMod:CJNYSFZ": {
     "NAME": "Injury reversal",
-    "DESCRIPTION": " Remilia uses a little trick to exchange her vulnerability and her ennemy's, gaining 6 times the difference in block. ",
+    "DESCRIPTION": "Remilia uses a little trick to exchange her vulnerability and her ennemy's, gaining 6 times the difference in block. ",
     "UPGRADE_DESCRIPTION": " fee-1 "
   },
   "RemiliaMod:CJNXRFZ": {
     "NAME": "Weakness reversal",
-    "DESCRIPTION": " Emilia uses a little trick to exchange her weakness and her ennemy's, gaining 6 times the difference in block. ",
+    "DESCRIPTION": "Remilia uses a little trick to exchange her weakness and her ennemy's, gaining 6 times the difference in block. ",
     "UPGRADE_DESCRIPTION": " fee-1 "
   },
   "RemiliaMod:CJNLLFZ": {
-    "NAME": "Power reversal",
-    "DESCRIPTION": " Remilia uses a little trick to exchange her strength and her ennemy's, gaining 6 times the difference in block. ",
+    "NAME": "Strength reversal",
+    "DESCRIPTION": "Remilia uses a little trick to exchange her strength and her ennemy's, gaining 6 times the difference in block. ",
     "UPGRADE_DESCRIPTION": " fee-1 "
   },
   "RemiliaMod:CJNMJFZ": {
     "NAME": "Dexterity reversal",
-    "DESCRIPTION": " Remilia uses a little trick to exchange her dexterity and her ennemy's, gaining 6 times the difference in block. ",
+    "DESCRIPTION": "Remilia uses a little trick to exchange her dexterity and her ennemy's, gaining 6 times the difference in block. ",
     "UPGRADE_DESCRIPTION": " fee-1 "
   },
   "RemiliaMod:CPBZMF": {
-    "NAME": "Runaway mode",
+    "NAME": "Blood Frenzy",
     "DESCRIPTION": "Fear not power itself, but the one who wields it",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CPFPDLL": {
-  "NAME": "Allocating : Greater Offense",
+  "NAME": "Reckless Mistress",
   "DESCRIPTION": " Gain 6 Strength, lose 6 Dexterity, draw !M! card, Exhaust ",
   "UPGRADE_DESCRIPTION": " Fee-1 "
 },
   "RemiliaMod:CFPDMJ": {
-    "NAME": "Allocating : Greater Defense",
+    "NAME": "Cautious Mistress",
     "DESCRIPTION": " Gain 6 Dexterity, lose 6 Strength, draw !M! card, Exhaust ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CPQHZZ": {
     "NAME": "Venomous Minions",
-    "DESCRIPTION": "Give !M!  poison every time an attack causes direct damage.  ",
+    "DESCRIPTION": "Apply !M! poison every time an attack causes direct damage.  ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CJNWYXD": {
@@ -240,62 +240,62 @@
   },
   "RemiliaMod:CWYXD": {
     "NAME": "Maid's Knives",
-    "DESCRIPTION": "A gift from your servant. Deals !D! points physical damage, Exhaust ",
+    "DESCRIPTION": "A gift from your servant. Deal !D! physical damage, Exhaust ",
     "UPGRADE_DESCRIPTION": "  "
   },
   "RemiliaMod:CBYZLC": {
   "NAME": "Yukari's gift",
-  "DESCRIPTION": "Need 12 runes to prepare. Deals three !D! points magic damage. This card also has a hidden power...",
-  "UPGRADE_DESCRIPTION": " Need 12 layers of rune preparation "
+  "DESCRIPTION": "Need 12 runes to prepare. Deal !D! magic damage 3 times. This card also has a hidden power...",
+  "UPGRADE_DESCRIPTION": "Need 12 layers of rune preparation "
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "The World",
-    "DESCRIPTION": "Require 10 Runes. Reduces the target's Strength by  !M!  .This card also has a hidden power...  ",
+    "DESCRIPTION": "Require 10 Runes. Reduce the target's Strength by !M!  .This card also has a hidden power...  ",
     "UPGRADE_DESCRIPTION": " Ten levels of Rune preparation are required "
   },
   "RemiliaMod:CWYRF": {
-  "NAME": "Royal flame",
-  "DESCRIPTION": "Require 10 Runes. Deal 40 damage !D! Point magic damage. This card also has a hidden power  ",
-  "UPGRADE_DESCRIPTION": " 10 layers of Rune preparation is required "
+  "NAME": "Agni Shine",
+  "DESCRIPTION": "Require 10 Runes. Deal !D! magic damage 40 times. This card also has a hidden power... ",
+  "UPGRADE_DESCRIPTION": "10 layers of Rune preparation is required "
 },
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
-  "DESCRIPTION": "Deals !D! damage. Heals !M! , Exhaust ",
+  "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust",
   "UPGRADE_DESCRIPTION": " Fee-1 "
 },
   "RemiliaMod:CZXSJ": {
     "NAME": "Medium crystal",
-    "DESCRIPTION": "Deals !D! damage. Heals !M! , Exhaust ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CDXSJ": {
     "NAME": "Large crystal",
-    "DESCRIPTION": "Deals !D! damage. Heals !M! , Exhaust ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CPJHZZ": {
-    "NAME": "All according to the plan...",
-    "DESCRIPTION": "At the end of your turn, retain !M!  ",
+    "NAME": "Mistress's scheme",
+    "DESCRIPTION": "At the end of your turn, retain !M!",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMPA": {
-    "NAME": "Magic enhancement : Heal",
+    "NAME": "Fragment: Heal",
     "DESCRIPTION": "Heal !D!  ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMPB": {
-    "NAME": "Magic enhancement : Thorn",
-    "DESCRIPTION": "Gain !D! thorns ",
+    "NAME": "Fragment : Thorn",
+    "DESCRIPTION": "Gain !D! Thorns ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMPC": {
-    "NAME": "Magic enhancement : Armor",
+    "NAME": "Fragment: Armor",
     "DESCRIPTION": "Gain !D! Plated Armor ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CMMDMP": {
-    "NAME": "Succubus's Magic C",
-    "DESCRIPTION": "Requires 5 runes, causing a hundred !D! Points magic damage, this card also has a hidden power.. ",
+    "NAME": "Mima's Spark",
+    "DESCRIPTION": "Require 5 runes. cause !D! magic damage 100 times. This card also has a hidden power.. ",
     "UPGRADE_DESCRIPTION": "Need five layers of rune preparation  "
   }
 
