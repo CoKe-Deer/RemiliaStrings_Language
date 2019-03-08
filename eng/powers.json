@@ -2,9 +2,9 @@
     "RemiliaMod:PLZYCY": {
       "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
-          " obtain",
-          " Point physical bonus ",
-          " Point magic bonus."
+          "Obtain",
+          "Physical bonus",
+          "Magic bonus."
       ]
     },
    "RemiliaMod:PFWZL": {
@@ -16,18 +16,18 @@
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      " Remilia changed the whole environment of Gensokyo. ",
-      "Add X Red Magic to your hand every turn."
+      "Remilia changes the whole environment of Gensokyo. ",
+      "Gain Red Magic every turn."
     ]
   },
   "RemiliaMod:PQNXXG": {
     "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
-      "Remilia's ability to revive the millennium",
-      "Respond every time an attack card is played 3 + the number of layers of this ability",
-      "Add a thousand years of vampires per turn",
-      "Get a little agility and strength every turn",
-      "At the beginning of the round, two selection cards are given."
+      "Remilia has been around for 500 years",
+      "Every time you play an Attack, heal for 3 + Millenium Vampire stacks",
+      "Add one Millenium Vampire stack per turn",
+      "Gain 1 Dexterity and 1 Strength each turn",
+      "At the beginning of the turn, add an upgraded Defense Switch and Offense Switch."
     ]
   },
   "Flight2": {
@@ -38,9 +38,9 @@
     ]
   },
   "RemiliaMod:PBZMS": {
-  "NAME": "Runaway mode",
+  "NAME": "Blood Frenzy",
   "DESCRIPTIONS": [
-    " Remilia uses the power of her existence",
+    " Remilia loses herself in her bloodlust",
     "Deal double damage",
     "Lose 6 HP per turn",
     "Gain two energy points",
