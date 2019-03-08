@@ -38,7 +38,7 @@
     ]
   },
   "RemiliaMod:PBZMS": {
-  "NAME": "Runaway mode",
+  "NAME": "Blood Frenzy",
   "DESCRIPTIONS": [
     " Remilia uses the power of her existence",
     "Deal double damage",
@@ -52,6 +52,18 @@
     "NAME": "Infinite knife",
     "DESCRIPTIONS": [
       "Your servant provides you with one knife per turn."
+    ]
+  },
+  "RemiliaMod:PFHGJ": {
+    "NAME": "Corruption attack",
+    "DESCRIPTIONS": [
+      "Explode when attacking an attack card"
+    ]
+  },
+  "RemiliaMod:PFHFY": {
+    "NAME": "Corruption defense",
+    "DESCRIPTIONS": [
+      "Gain 10 Block when you consume an attack card. "
     ]
   }
 

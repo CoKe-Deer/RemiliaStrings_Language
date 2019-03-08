@@ -2,9 +2,9 @@
     "RemiliaMod:PLZYCY": {
       "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
-          "Obtain",
-          "Physical bonus",
-          "Magic bonus."
+          " obtain",
+          " Point physical bonus ",
+          " Point magic bonus."
       ]
     },
    "RemiliaMod:PFWZL": {
@@ -16,18 +16,18 @@
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      "Remilia changes the whole environment of Gensokyo. ",
-      "Gain Red Magic every turn."
+      " Remilia changed the whole environment of Gensokyo. ",
+      "Add X Red Magic to your hand every turn."
     ]
   },
   "RemiliaMod:PQNXXG": {
     "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
-      "Remilia has been around for 500 years",
-      "Every time you play an Attack, heal for 3 + Millenium Vampire stacks",
-      "Add one Millenium Vampire stack per turn",
-      "Gain 1 Dexterity and 1 Strength each turn",
-      "At the beginning of the turn, add an upgraded Defense Switch and Offense Switch."
+      "Remilia's ability to revive the millennium",
+      "Respond every time an attack card is played 3 + the number of layers of this ability",
+      "Add a thousand years of vampires per turn",
+      "Get a little agility and strength every turn",
+      "At the beginning of the round, two selection cards are given."
     ]
   },
   "Flight2": {
@@ -40,7 +40,7 @@
   "RemiliaMod:PBZMS": {
   "NAME": "Blood Frenzy",
   "DESCRIPTIONS": [
-    " Remilia loses herself in her bloodlust",
+    " Remilia uses the power of her existence",
     "Deal double damage",
     "Lose 6 HP per turn",
     "Gain two energy points",
@@ -52,6 +52,18 @@
     "NAME": "Infinite knife",
     "DESCRIPTIONS": [
       "Your servant provides you with one knife per turn."
+    ]
+  },
+  "RemiliaMod:PFHGJ": {
+    "NAME": "Corruption attack",
+    "DESCRIPTIONS": [
+      "Explode when attacking an attack card"
+    ]
+  },
+  "RemiliaMod:PFHFY": {
+    "NAME": "Corruption defense",
+    "DESCRIPTIONS": [
+      "Gain 10 Block when you consume an attack card. "
     ]
   }
 

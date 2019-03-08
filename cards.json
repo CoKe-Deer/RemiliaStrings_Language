@@ -297,6 +297,31 @@
     "NAME": "Mima's Spark",
     "DESCRIPTION": "Require 5 runes. cause !D! magic damage 100 times. This card also has a hidden power.. ",
     "UPGRADE_DESCRIPTION": "Need five layers of rune preparation  "
+  },
+  "RemiliaMod:CSX": {
+    "NAME": "Blood lock",
+    "DESCRIPTION": " Gift ",
+    "UPGRADE_DESCRIPTION": "   "
+  },
+  "RemiliaMod:CYYRK": {
+  "NAME": "Nagae Iku's Feather",
+  "DESCRIPTION": " Need 4 layers of rune preparation, get !M! point dexterity ",
+  "UPGRADE_DESCRIPTION": "   Need 4 layers of rune preparation  "
+},
+  "RemiliaMod:CHQS": {
+    "NAME": "Fireball",
+    "DESCRIPTION": " Need three layers of rune preparation, causing !D! points magic damage",
+    "UPGRADE_DESCRIPTION": "  Need three layers of rune preparation  "
+  },
+  "RemiliaMod:CFHGJ": {
+  "NAME": "Corruption attack",
+  "DESCRIPTION": "Give the effect of corruption attack",
+  "UPGRADE_DESCRIPTION": "   Fee-1  "
+},
+  "RemiliaMod:CFHFY": {
+    "NAME": "Corruption defense",
+    "DESCRIPTION": "Give the effect of Dark Embrace Power",
+    "UPGRADE_DESCRIPTION": "   Fee-1  "
   }
 
 

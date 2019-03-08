@@ -59,5 +59,17 @@
     "DESCRIPTIONS": [
       "女仆每回合给与该能力层数的升级过的小刀，加入到蕾米莉亚的手牌"
     ]
+  },
+  "RemiliaMod:PFHGJ": {
+  "NAME": "腐化攻击",
+  "DESCRIPTIONS": [
+    "打出攻击牌时将其消耗"
+  ]
+},
+  "RemiliaMod:PFHFY": {
+    "NAME": "腐化防御",
+    "DESCRIPTIONS": [
+      "消耗一张攻击牌时获得10点 格挡 "
+    ]
   }
-  }
+}

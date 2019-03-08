@@ -297,5 +297,30 @@
     "NAME": "魅魔的魔炮",
     "DESCRIPTION": "需要 五层 符文准备 ，造成一百次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量.. ",
     "UPGRADE_DESCRIPTION": " 需要 五层 符文准备  "
+  },
+  "RemiliaMod:CSX": {
+    "NAME": "锁血",
+    "DESCRIPTION": " 礼物 ",
+    "UPGRADE_DESCRIPTION": "   "
+  },
+  "RemiliaMod:CYYRK": {
+    "NAME": "「羽衣若空」",
+    "DESCRIPTION": " 需要四层 符文准备 ，获得 !M! 点 敏捷 ",
+    "UPGRADE_DESCRIPTION": "   需要四层 符文准备  "
+  },
+  "RemiliaMod:CHQS": {
+  "NAME": "火球",
+  "DESCRIPTION": " 需要三层 符文准备 ，造成 !D! 点 魔法伤害 ",
+  "UPGRADE_DESCRIPTION": "   需要三层 符文准备  "
+},
+  "RemiliaMod:CFHGJ": {
+  "NAME": "腐化攻击",
+  "DESCRIPTION": "给与 腐化攻击 的效果",
+  "UPGRADE_DESCRIPTION": "   费用-1  "
+},
+  "RemiliaMod:CFHFY": {
+    "NAME": "腐化防御",
+    "DESCRIPTION": "给与 腐化防御 的效果",
+    "UPGRADE_DESCRIPTION": "   费用-1  "
   }
 }

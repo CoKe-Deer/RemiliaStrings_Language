@@ -65,7 +65,7 @@
   },
   "KFkxt": {
     "NAMES": [
-      "Card preparation","Rune power"
+      "Card preparation","rune","Rune","Runes","runes"
     ],
     "DESCRIPTION": "Remilia must prepare in order to use intermediate and advanced magic."
   },
@@ -92,5 +92,11 @@
     "Millennium Vampire"
   ],
   "DESCRIPTION": "#y Remilia has been around for over a millenium..."
+},
+  "KFHGJ": {
+  "NAMES": [
+    "corruption attack"
+  ],
+  "DESCRIPTION": "#y attack cards will be consumed directly."
 }
 }
