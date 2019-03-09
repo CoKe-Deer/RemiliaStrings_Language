@@ -69,7 +69,28 @@
   "RemiliaMod:PFHFY": {
     "NAME": "腐化防御",
     "DESCRIPTIONS": [
-      "消耗一张攻击牌时获得8点 格挡 ,抽一张牌"
+      "#y消耗 一张攻击牌时获得8点 格挡 ,抽一张牌"
     ]
-  }
+  },
+  "RemiliaMod:PYSGJ": {
+  "NAME": "易伤攻击",
+  "DESCRIPTIONS": [
+    "每当你造成未被格挡的 #b攻击 伤害，给予 ",
+    "层 #y易伤 "
+  ]
+},
+  "RemiliaMod:PYSNL": {
+    "NAME": "易伤能力",
+    "DESCRIPTIONS": [
+      "开始回合时，给予 怪物  ",
+      "层 #y易伤"
+    ]
+  },
+  "RemiliaMod:PXRNL": {
+  "NAME": "虚弱能力",
+  "DESCRIPTIONS": [
+    "开始回合时，给予 怪物  ",
+    "层 #y虚弱"
+  ]
+}
 }

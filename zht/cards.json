@@ -323,6 +323,26 @@
     "NAME": "腐化防禦",
     "DESCRIPTION": "給與 腐化防禦 的效果",
     "UPGRADE_DESCRIPTION": "   費用-1  "
+  },
+  "RemiliaMod:CGJM": {
+    "NAME": "目",
+    "DESCRIPTION": "需要五層 符文準備 ，芙蘭朵露 造成 !D! +怪物的易傷數*10點 魔法傷害，給與 !M! 層易傷",
+    "UPGRADE_DESCRIPTION": "   需要五層 符文準備  "
+  },
+  "RemiliaMod:CPYSNL": {
+    "NAME": "易傷能力",
+    "DESCRIPTION": "給與 易傷能力 ",
+    "UPGRADE_DESCRIPTION": "   費用-1  "
+  },
+  "RemiliaMod:CPYSGJ": {
+    "NAME": "易傷攻擊",
+    "DESCRIPTION": "給與 易傷攻擊 ",
+    "UPGRADE_DESCRIPTION": "   費用-1  "
+  },
+  "RemiliaMod:CPXRNL": {
+    "NAME": "虛弱能力",
+    "DESCRIPTION": "給與 虛弱能力 ",
+    "UPGRADE_DESCRIPTION": "   費用-1  "
   }
 
 

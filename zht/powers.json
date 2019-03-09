@@ -71,6 +71,27 @@
     "DESCRIPTIONS": [
       "消耗一張攻擊牌時獲得8點 格擋 ，抽一張牌"
     ]
+  },
+  "RemiliaMod:PYSGJ": {
+  "NAME": "易傷攻擊",
+  "DESCRIPTIONS": [
+    "每當妳造成未被格擋的 #b攻擊 傷害，給予 ",
+    "層 #y易傷 "
+  ]
+},
+  "RemiliaMod:PYSNL": {
+    "NAME": "易傷能力",
+    "DESCRIPTIONS": [
+      "開始回合時，給予 怪物  ",
+      "層 #y易傷"
+    ]
+  },
+  "RemiliaMod:PXRNL": {
+    "NAME": "虛弱能力",
+    "DESCRIPTIONS": [
+      "開始回合時，給予 怪物  ",
+      "層 #y虛弱"
+    ]
   }
 
 }

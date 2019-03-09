@@ -317,10 +317,30 @@
   "NAME": "腐化攻击",
   "DESCRIPTION": "给与 腐化攻击 的效果",
   "UPGRADE_DESCRIPTION": "   费用-1  "
-},
+ },
   "RemiliaMod:CFHFY": {
     "NAME": "腐化防御",
     "DESCRIPTION": "给与 腐化防御 的效果",
     "UPGRADE_DESCRIPTION": "   费用-1  "
-  }
+  },
+  "RemiliaMod:CGJM": {
+  "NAME": "目",
+  "DESCRIPTION": "需要五层 符文准备 ，芙兰朵露 造成 !D! +怪物的易伤数*10点 魔法伤害，给与 !M! 层易伤",
+  "UPGRADE_DESCRIPTION": "   需要五层 符文准备  "
+},
+  "RemiliaMod:CPYSNL": {
+  "NAME": "易伤能力",
+  "DESCRIPTION": "给与 易伤能力 ",
+  "UPGRADE_DESCRIPTION": "   费用-1  "
+},
+  "RemiliaMod:CPYSGJ": {
+    "NAME": "易伤攻击",
+    "DESCRIPTION": "给与 易伤攻击 ",
+    "UPGRADE_DESCRIPTION": "   费用-1  "
+  },
+  "RemiliaMod:CPXRNL": {
+  "NAME": "虚弱能力",
+  "DESCRIPTION": "给与 虚弱能力 ",
+  "UPGRADE_DESCRIPTION": "   费用-1  "
+}
 }

@@ -322,6 +322,26 @@
     "NAME": "Corruption defense",
     "DESCRIPTION": "Give the effect of Dark Embrace Power",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
+  },
+  "RemiliaMod:CGJM": {
+    "NAME": "Flandre'eye",
+    "DESCRIPTION": "Need 5 layers of rune preparation, Deals !D! + Monster Vulnerable * 10 magic damage, Apply !M! Vulnerable",
+    "UPGRADE_DESCRIPTION": "   Need 5 layers of rune   "
+  },
+  "RemiliaMod:CPYSNL": {
+    "NAME": "Vulnerable",
+    "DESCRIPTION": "Vulnerable per turn",
+    "UPGRADE_DESCRIPTION": "   Fee-1  "
+  },
+  "RemiliaMod:CPYSGJ": {
+    "NAME": "Vulnerable attack",
+    "DESCRIPTION": "Apply !M! Vulnerable every time an attack causes direct damage.",
+    "UPGRADE_DESCRIPTION": "   Fee-1  "
+  },
+  "RemiliaMod:CPXRNL": {
+    "NAME": "Weak",
+    "DESCRIPTION": "Weak per turn",
+    "UPGRADE_DESCRIPTION": "   Fee-1  "
   }
 
 

@@ -65,6 +65,27 @@
     "DESCRIPTIONS": [
       "Gain 8 Block when you consume an attack card. Draw one cards "
     ]
+  },
+  "RemiliaMod:PYSGJ": {
+  "NAME": "Vulnerable attack",
+  "DESCRIPTIONS": [
+    "Whenever you cause an unblocked #y attack damage, give ",
+    " #yVulnerable "
+  ]
+},
+  "RemiliaMod:PYSNL": {
+    "NAME": "Vulnerability",
+    "DESCRIPTIONS": [
+      "Give the monster when starting the round  ",
+      " #yVulnerable"
+    ]
+  },
+  "RemiliaMod:PXRNL": {
+    "NAME": "Weak ability",
+    "DESCRIPTIONS": [
+      "Give the monster when starting the round   ",
+      " #yWeak"
+    ]
   }
 
 }
