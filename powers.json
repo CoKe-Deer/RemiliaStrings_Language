@@ -2,9 +2,9 @@
     "RemiliaMod:PLZYCY": {
       "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
-          " obtain",
-          " Point physical bonus ",
-          " Point magic bonus."
+          " Obtain",
+          "  physical bonus ",
+          "  magic bonus."
       ]
     },
    "RemiliaMod:PFWZL": {
@@ -16,18 +16,18 @@
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      " Remilia changed the whole environment of Gensokyo. ",
-      "Add X Red Magic to your hand every turn."
+      " Remilia changes the whole environment of Gensokyo. ",
+      "Add Red Magic to your hand every turn, depending on stack value."
     ]
   },
   "RemiliaMod:PQNXXG": {
     "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
-      "Remilia's ability to revive the millennium",
-      "Respond every time an attack card is played 3 + the number of layers of this ability",
-      "Add a thousand years of vampires per turn",
-      "Get a little agility and strength every turn",
-      "At the beginning of the round, two selection cards are given."
+      "Remilia's been alive for over 500 years",
+      "Heal for 3 + stack value for every attack played",
+      "Add one stack per turn",
+      "Apply one Strength and one Dexterity each turn",
+      "At the beginning of the round, add one upgraded Defense/Offense Switch to your hand."
     ]
   },
   "Flight2": {
@@ -40,7 +40,7 @@
   "RemiliaMod:PBZMS": {
   "NAME": "Blood Frenzy",
   "DESCRIPTIONS": [
-    " Remilia uses the power of her existence",
+    " Remilia consumes her own life to obtain power",
     "Deal double damage",
     "Lose 6 HP per turn",
     "Gain two energy points",
@@ -51,7 +51,7 @@
   "RemiliaMod:PWXXD": {
     "NAME": "Infinite knife",
     "DESCRIPTIONS": [
-      "Your servant provides you with one knife per turn."
+      "Your servant provides you with knives every turn."
     ]
   },
   "RemiliaMod:PFHGJ": {
@@ -63,27 +63,27 @@
   "RemiliaMod:PFHFY": {
     "NAME": "Corruption defense",
     "DESCRIPTIONS": [
-      "Gain 8 Block when you consume an attack card. Draw one cards "
+      "Gain 8 Block when you exhaust an attack card. Draw one card "
     ]
   },
   "RemiliaMod:PYSGJ": {
   "NAME": "Vulnerable attack",
   "DESCRIPTIONS": [
-    "Whenever you cause an unblocked #y attack damage, give ",
+    "Whenever you cause an unblocked #y attack damage, apply",
     " #yVulnerable "
   ]
 },
   "RemiliaMod:PYSNL": {
     "NAME": "Vulnerability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round  ",
+      "Every turn, apply  ",
       " #yVulnerable"
     ]
   },
   "RemiliaMod:PXRNL": {
     "NAME": "Weak ability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round   ",
+      "Every turn, apply   ",
       " #yWeak"
     ]
   }
