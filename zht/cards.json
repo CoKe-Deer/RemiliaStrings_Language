@@ -246,8 +246,8 @@
   },
   "RemiliaMod:CBYZLC": {
   "NAME": "八雲紫asdasd....",
-  "DESCRIPTION": "需要 十二層 符文準備 ，造成三次 !D! 點 魔法傷害，這張卡還隱藏著未知的力量..  ",
-  "UPGRADE_DESCRIPTION": " 需要十二層 符文準備 "
+  "DESCRIPTION": "需要 15 層 符文準備 ，造成三次 !D! 點 魔法傷害，這張卡還隱藏著未知的力量..  ",
+  "UPGRADE_DESCRIPTION": " 需要 15 層 符文準備 "
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "咲夜的世界",
@@ -256,8 +256,8 @@
   },
   "RemiliaMod:CWYRF": {
     "NAME": "「ロイヤルフレア」",
-    "DESCRIPTION": "需要 十層 符文準備 ，造成四十次 !D! 點 魔法傷害 ，這張卡還隱藏著未知的力量..  ",
-    "UPGRADE_DESCRIPTION": " 需要十層 符文準備 "
+    "DESCRIPTION": "需要 12 層 符文準備 ，造成四十次 !D! 點 魔法傷害 ，這張卡還隱藏著未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要 12 層 符文準備 "
   },
   "RemiliaMod:CXXSJ": {
   "NAME": "小型法術水晶",
@@ -306,8 +306,8 @@
   },
   "RemiliaMod:CYYRK": {
     "NAME": "「羽衣若空」",
-    "DESCRIPTION": " 需要四層 符文準備 ，獲得 !M! 點 敏捷 ",
-    "UPGRADE_DESCRIPTION": "   需要四層 符文準備  "
+    "DESCRIPTION": " 需要六層 符文準備 ，獲得 !M! 點 敏捷 ",
+    "UPGRADE_DESCRIPTION": "   需要六層 符文準備  "
   },
   "RemiliaMod:CHQS": {
     "NAME": "火球",

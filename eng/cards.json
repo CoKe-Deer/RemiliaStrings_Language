@@ -245,8 +245,8 @@
   },
   "RemiliaMod:CBYZLC": {
   "NAME": "Yukari's gift",
-  "DESCRIPTION": "Need 12 runes to prepare. Deal !D! magic damage 3 times. This card also has a hidden power...",
-  "UPGRADE_DESCRIPTION": "Need 12 layers of rune preparation "
+  "DESCRIPTION": "Need 15 runes to prepare. Deal !D! magic damage 3 times. This card also has a hidden power...",
+  "UPGRADE_DESCRIPTION": "Need 15 layers of rune preparation "
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "The World",
@@ -255,8 +255,8 @@
   },
   "RemiliaMod:CWYRF": {
   "NAME": "Agni Shine",
-  "DESCRIPTION": "Require 10 Runes. Deal !D! magic damage 40 times. This card also has a hidden power... ",
-  "UPGRADE_DESCRIPTION": "10 layers of Rune preparation is required "
+  "DESCRIPTION": "Require 12 Runes. Deal !D! magic damage 40 times. This card also has a hidden power... ",
+  "UPGRADE_DESCRIPTION": "12 layers of Rune preparation is required "
 },
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
@@ -305,8 +305,8 @@
   },
   "RemiliaMod:CYYRK": {
   "NAME": "Nagae Iku's Feather",
-  "DESCRIPTION": " Need 4 layers of rune preparation, get !M! point dexterity ",
-  "UPGRADE_DESCRIPTION": "   Need 4 layers of rune preparation  "
+  "DESCRIPTION": " Need 6 layers of rune preparation, get !M! point dexterity ",
+  "UPGRADE_DESCRIPTION": "   Need 6 layers of rune preparation  "
 },
   "RemiliaMod:CHQS": {
     "NAME": "Fireball",

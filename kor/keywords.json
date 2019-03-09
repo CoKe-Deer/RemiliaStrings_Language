@@ -1,0 +1,102 @@
+{
+  "KAattack": {
+      "NAMES": [
+        "Segment A","Segment a"
+      ],
+      "DESCRIPTION": "The card is the initial card of a series of attacks #b 。"
+    },
+  "KMABianfuzhen": {
+    "NAMES": [
+      "Magic A","Magic a","MA","ma"
+    ],
+    "DESCRIPTION": "This card is one of the magic cards in the Magic A series. #b 。"
+  },
+  "KallUp": {
+      "NAMES": [
+        "Upgrade all"
+      ],
+      "DESCRIPTION": "Upgrade this card once it is played. #b 。"
+    },
+  "KLianduan": {
+      "NAMES": [
+        "Second type"
+      ],
+      "DESCRIPTION": "The card is a derivative of a series of three hits. #b 。"
+    },
+  "Kwl": {
+    "NAMES": [
+      "physical",
+      "Physical attack",
+      "Physical damage"
+    ],
+    "DESCRIPTION": "One of Remilia's type of damage."
+  },
+  "Kmf": {
+    "NAMES": [
+      "magic",
+      "Magic attack",
+      "Magic damage"
+    ],
+    "DESCRIPTION": "One of Remilia's type of damage."
+  },
+  "KXDS": {
+  "NAMES": [
+    "Relative number",
+    "relatively"
+  ], "DESCRIPTION": "Gain experience through combat."
+  },
+  "Kwljc": {
+    "NAMES": [
+      "Physical bonus","physical bonus"
+    ],
+    "DESCRIPTION": "Physical bonuses can cause additional damage from physical attacks."
+    },
+  "Kmfjc": {
+  "NAMES": [
+    "Magic bonus","magic bonus"
+  ],
+  "DESCRIPTION": "Magic bonuses give magical attacks extra damage and effects."
+},
+  "KLMLY": {
+    "NAMES": [
+      "Remilia"
+    ],
+    "DESCRIPTION": "Remilia is the owner of the Scarlet Devil Mansion."
+  },
+  "KFkxt": {
+    "NAMES": [
+      "Card preparation","rune","Rune","Runes","runes"
+    ],
+    "DESCRIPTION": "Remilia must prepare in order to use intermediate and advanced magic."
+  },
+  "KFX": {
+    "NAMES": [
+      "flight"
+    ],
+    "DESCRIPTION": "Permanent Flight Status of the Vampire Princess."
+  },
+  "KHWYB": {
+  "NAMES": [
+    "Red fog change"
+  ],
+  "DESCRIPTION": "Remilia changed the whole environment of Gensokyo"
+},
+  "KFWZB": {
+  "NAMES": [
+    "Rune preparation"
+  ],
+  "DESCRIPTION": "#yThe number of layers of runes."
+},
+  "KQNXXG": {
+  "NAMES": [
+    "Millennium Vampire"
+  ],
+  "DESCRIPTION": "#y Remilia has been around for over a millenium..."
+},
+  "KFHGJ": {
+  "NAMES": [
+    "corruption attack"
+  ],
+  "DESCRIPTION": "#y attack cards will be consumed directly."
+}
+}
