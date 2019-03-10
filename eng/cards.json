@@ -250,8 +250,8 @@
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "The World",
-    "DESCRIPTION": "Require 14 Runes. Reduce the target's Strength by !M!  .This card also has a hidden power...  ",
-    "UPGRADE_DESCRIPTION": " 14 of Rune preparation are required "
+    "DESCRIPTION": "Require 12 Runes. Reduce the target's Strength by !M!  .This card also has a hidden power...  ",
+    "UPGRADE_DESCRIPTION": " 12 of Rune preparation are required "
   },
   "RemiliaMod:CWYRF": {
   "NAME": "Agni Shine",
@@ -305,8 +305,8 @@
   },
   "RemiliaMod:CYYRK": {
   "NAME": "Nagae's Feather",
-  "DESCRIPTION": " Require 6 Runes. Gain !M! Dexterity ",
-  "UPGRADE_DESCRIPTION": "   Need 6 layers of rune preparation  "
+  "DESCRIPTION": " Require 5 Runes. Gain !M! Dexterity ",
+  "UPGRADE_DESCRIPTION": "   Need 5 layers of rune preparation  "
 },
   "RemiliaMod:CHQS": {
     "NAME": "Fireball",

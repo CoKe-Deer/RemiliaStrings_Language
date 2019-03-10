@@ -251,8 +251,8 @@
 },
   "RemiliaMod:CJNNPSJ": {
     "NAME": "咲夜的世界",
-    "DESCRIPTION": "需要 14 層 符文準備 ，敵人降低 !M! 點力量，這張卡還隱藏著未知的力量..  ",
-    "UPGRADE_DESCRIPTION": " 需要14 層 符文準備 "
+    "DESCRIPTION": "需要 12 層 符文準備 ，敵人降低 !M! 點力量，這張卡還隱藏著未知的力量..  ",
+    "UPGRADE_DESCRIPTION": " 需要 12 層 符文準備 "
   },
   "RemiliaMod:CWYRF": {
     "NAME": "「ロイヤルフレア」",
@@ -306,8 +306,8 @@
   },
   "RemiliaMod:CYYRK": {
     "NAME": "「羽衣若空」",
-    "DESCRIPTION": " 需要六層 符文準備 ，獲得 !M! 點 敏捷 ",
-    "UPGRADE_DESCRIPTION": "   需要六層 符文準備  "
+    "DESCRIPTION": " 需要5層 符文準備 ，獲得 !M! 點 敏捷 ",
+    "UPGRADE_DESCRIPTION": "   需要5層 符文準備  "
   },
   "RemiliaMod:CHQS": {
     "NAME": "火球",
