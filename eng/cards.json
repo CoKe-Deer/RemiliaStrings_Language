@@ -299,48 +299,48 @@
     "UPGRADE_DESCRIPTION": "Need five layers of rune preparation  "
   },
   "RemiliaMod:CSX": {
-    "NAME": "Blood lock",
-    "DESCRIPTION": " Gift ",
+    "NAME": "Immortal Blood",
+    "DESCRIPTION": " A gift... ",
     "UPGRADE_DESCRIPTION": "   "
   },
   "RemiliaMod:CYYRK": {
-  "NAME": "Nagae Iku's Feather",
-  "DESCRIPTION": " Need 6 layers of rune preparation, get !M! point dexterity ",
+  "NAME": "Nagae's Feather",
+  "DESCRIPTION": " Require 6 Runes. Gain !M! Dexterity ",
   "UPGRADE_DESCRIPTION": "   Need 6 layers of rune preparation  "
 },
   "RemiliaMod:CHQS": {
     "NAME": "Fireball",
-    "DESCRIPTION": " Need three layers of rune preparation, causing !D! points magic damage",
+    "DESCRIPTION": " Require 3 Runes. Deal !D! magic damage",
     "UPGRADE_DESCRIPTION": "  Need three layers of rune preparation  "
   },
   "RemiliaMod:CFHGJ": {
-  "NAME": "Corruption attack",
-  "DESCRIPTION": "Give the effect of corruption attack",
+  "NAME": "Corruptive Attack",
+  "DESCRIPTION": "Consume to bolster your offense",
   "UPGRADE_DESCRIPTION": "   Fee-1  "
 },
   "RemiliaMod:CFHFY": {
-    "NAME": "Corruption defense",
-    "DESCRIPTION": "Give the effect of Dark Embrace Power",
+    "NAME": "Corruptive Defense",
+    "DESCRIPTION": "Consume to bolster your defenses",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
   },
   "RemiliaMod:CGJM": {
-    "NAME": "Flandre'eye",
-    "DESCRIPTION": "Need 5 layers of rune preparation, Deals !D! + Monster Vulnerable * 10 magic damage, Apply !M! Vulnerable",
+    "NAME": "Flandre's Eye",
+    "DESCRIPTION": "Require 5 Runes. Deal !D! damage and an extra 10 for each stack of Vulnerable. Apply !M! Vulnerable",
     "UPGRADE_DESCRIPTION": "   Need 5 layers of rune   "
   },
   "RemiliaMod:CPYSNL": {
-    "NAME": "Vulnerable",
-    "DESCRIPTION": "Vulnerable per turn",
+    "NAME": "Curse of Vulnerability",
+    "DESCRIPTION": "Apply Vulnerable to all at the beginning of each turn",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
   },
   "RemiliaMod:CPYSGJ": {
-    "NAME": "Vulnerable attack",
-    "DESCRIPTION": "Apply !M! Vulnerable every time an attack causes direct damage.",
+    "NAME": "No Mercy!",
+    "DESCRIPTION": "Apply !M! Vulnerable every time an attack causes unblocked damage.",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
   },
   "RemiliaMod:CPXRNL": {
-    "NAME": "Weak",
-    "DESCRIPTION": "Weak per turn",
+    "NAME": "Curse of Weakness",
+    "DESCRIPTION": "Apply Vulnerable to all at the beginning of each turn",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
   }
 
