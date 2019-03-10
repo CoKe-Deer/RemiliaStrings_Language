@@ -3,55 +3,55 @@
     "NAME": "Experienced Devil",
     "FLAVOR": "As a young devil, you'll learn and improve during your journey",
     "DESCRIPTIONS": [
-      "Your relative number will determine your magic bonus and physical bonus.",
+      "Your experience will determine your magic bonus and physical bonus.",
       "           ",
       "Remilia gains the ability to learn from each battle.",
       "           "
     ]
   },
   "RemiliaMod:RFkXt": {
-  "NAME": "Card system",
-  "FLAVOR": "Remilia will convert lesser cards to better cards",
+  "NAME": "Magic Crucible",
+  "FLAVOR": "Remilia will refine lesser cards into avanced magic",
   "DESCRIPTIONS": [
-    "After playing three Bat Swarm (lesser magic), add a Small Gun to your hand.",
+    "If you have 3 Bat Swarm in hand use the Crucible to exhaust them and gain Lesser Gungnir",
     "           ",
-    "After playing three Bat (intermediate magic), it will Exhaust, and a Lesser Night will be added to your hand.",
+    "If you have 3 Vampire Bat in hand, exhaust them and gain Lesser Night",
     "           ",
-    "Right click on the relic to get a card ready",
+    "Right click on the relic to obtain Runic Readiness",
     "           ",
     "Start with 1 rune"
   ]
 },
   "RemiliaMod:RHW": {
     "NAME": "Red Mist",
-    "FLAVOR": "Enhance the Red Mist of Remilia.",
+    "FLAVOR": "Improve the effect of the Red Mist.",
     "DESCRIPTIONS": [
-      "Enhance one Red Mist effect per turn, Give Remilia 1 Strength"
+      "Add one Red Mist stack each turn. Gain 1 Strength every turn."
 
     ]
   },
   "RemiliaMod:RLLDDJ": {
     "NAME": "Devil's bargain",
-    "FLAVOR": "Unavoidable price.",
+    "FLAVOR": "Is it truly worth it?...",
     "DESCRIPTIONS": [
-      "At the beginning of the round, give yourself 1 Weak, 2 Strength, and give your ennemies 1 Strength."
+      "Every turn, apply 1 Weak and 2 Strength to yourself. Apply 1 Strength to your foes."
     ]
   },
   "RemiliaMod:RWYXT": {
     "NAME": "Maid Service",
     "FLAVOR": "Your servant shall assist you in battle",
     "DESCRIPTIONS": [
-      "If you play 3 Maid's Knives in one round, heal 1 HP, and gain 2 Rune",
+      "If you play 3 Maid's Knives in one round, heal 1 HP and gain 2 Rune",
       "           ",
-      "Remove the magic cannon fragments at the beginning of each turn. When there are 8, the succubus's magic cannon is permanently added to the hand."
+      " Accumulate 8 Fragments in your deck to permanently obtain Mima's Spark"
     ]
   },
 
   "RemiliaMod:RWYXD": {
-    "NAME": "Knife",
-    "FLAVOR": "Enhanced infinite knife ability。",
+    "NAME": "Silver Knife",
+    "FLAVOR": "Improve the Infinite Knife ability",
     "DESCRIPTIONS": [
-      "Enhance one infinite knife ability per turn"
+      "Add one stack of Infinite Knife every turn"
     ]
   }
 }
