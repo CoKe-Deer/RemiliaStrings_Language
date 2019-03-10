@@ -326,7 +326,7 @@
   },
   "RemiliaMod:CGJM": {
     "NAME": "目",
-    "DESCRIPTION": "需要五層 符文準備 ，芙蘭朵露 造成 !D! +怪物的易傷數*10點 魔法傷害，給與 !M! 層易傷",
+    "DESCRIPTION": "需要五層 符文準備 ，芙蘭朵露 造成 !D! 加於怪物的易傷數*10點 魔法傷害 ，給與 !M! 層 易傷 ",
     "UPGRADE_DESCRIPTION": "   需要五層 符文準備  "
   },
   "RemiliaMod:CPYSNL": {
@@ -335,7 +335,7 @@
     "UPGRADE_DESCRIPTION": "   費用-1  "
   },
   "RemiliaMod:CPYSGJ": {
-    "NAME": "易傷攻擊",
+    "NAME": "毫不留情",
     "DESCRIPTION": "給與 易傷攻擊 ",
     "UPGRADE_DESCRIPTION": "   費用-1  "
   },
