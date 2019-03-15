@@ -342,6 +342,11 @@
     "NAME": "Curse of Weakness",
     "DESCRIPTION": "Apply Vulnerable to all at the beginning of each turn",
     "UPGRADE_DESCRIPTION": "   Fee-1  "
+  },
+  "RemiliaMod:CYYRS": {
+    "NAME": "Feather time",
+    "DESCRIPTION": "Require 5 Runes. Gain !M! Artifact. Gain !D! Ethereal ",
+    "UPGRADE_DESCRIPTION": "   Require 5 Runes.   "
   }
 
 

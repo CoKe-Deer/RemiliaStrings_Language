@@ -156,11 +156,11 @@
   },
   "RemiliaMod:CJNSJDF": {
     "NAME": "伺機待發",
-    "DESCRIPTION": "獲得兩層雙發效果 給與自身 !M! 層易傷和虛弱"
+    "DESCRIPTION": "獲得兩層 雙發 效果 給與自身 !M! 層 易傷 和 虛弱 "
   },
   "RemiliaMod:CJNCMSS": {
   "NAME": "沉默殺手",
-  "DESCRIPTION": "下兩個回合傷害加倍 給與自身 !M! 層易傷和虛弱"
+  "DESCRIPTION": "下兩個回合 傷害 加倍  給與自身 !M! 層 易傷 和 虛弱 "
 },
   "RemiliaMod:CWYW": {
     "NAME": "巫妖王",
@@ -206,12 +206,12 @@
   },
   "RemiliaMod:CPFPDLL": {
   "NAME": "分配大力量",
-  "DESCRIPTION": " 獲得6點 力量 ,失去6點 敏捷 ，抽 !M! 張牌 ， 消耗 ",
+  "DESCRIPTION": " 獲得6點 力量 ,失去6點 敏捷 ，抽 !M! 張牌  ",
   "UPGRADE_DESCRIPTION": " 費用-1 "
 },
   "RemiliaMod:CFPDMJ": {
     "NAME": "分配大敏捷",
-    "DESCRIPTION": " 獲得6點 敏捷 ,失去6點 力量 ，抽 !M! 張牌 ， 消耗 ",
+    "DESCRIPTION": " 獲得6點 敏捷 ,失去6點 力量 ，抽 !M! 張牌  ",
     "UPGRADE_DESCRIPTION": " 費用-1 "
   },
   "RemiliaMod:CPQHZZ": {
@@ -343,7 +343,12 @@
     "NAME": "虛弱能力",
     "DESCRIPTION": "給與 虛弱能力 ",
     "UPGRADE_DESCRIPTION": "   費用-1  "
-  }
+  },
+  "RemiliaMod:CYYRS": {
+  "NAME": "「羽衣若時」",
+  "DESCRIPTION": "需要 五層 符文準備 ，獲得 !M! 層 人工制品 ，獲得 !D! 層 回響 ",
+  "UPGRADE_DESCRIPTION": "   需要 五層 符文準備   "
+}
 
 
 

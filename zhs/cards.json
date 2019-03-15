@@ -23,7 +23,7 @@
   "RemiliaMod:CAattack_t": {
     "NAME": "A连段 第二式",
     "DESCRIPTION": "造成两次 !D! 点 物理伤害 。 连段A 强化版 第二 式 抽一张牌 升级全部 ",
-    "UPGRADE_DESCRIPTION": " a连段 打出一次后 消耗 升级全部 A第二 式 造成 !D! 点伤害。 你每有一张名字中有 A 的牌 升级全部 。"
+    "UPGRADE_DESCRIPTION": " a连段 打出一次后  升级全部 A第二 式 造成 !D! 点伤害。 你每有一张名字中有 A 的牌 升级全部 。"
   },
   "RemiliaMod:CAattack_s": {
     "NAME": "A连段 最终式",
@@ -155,11 +155,11 @@
   },
   "RemiliaMod:CJNSJDF": {
     "NAME": "伺机待发",
-    "DESCRIPTION": "获得两层双发效果 给与自身 !M! 层易伤和虚弱"
+    "DESCRIPTION": "获得两层 双发 效果 给与自身 !M! 层 易伤 和 虚弱 "
   },
   "RemiliaMod:CJNCMSS": {
   "NAME": "沉默杀手",
-  "DESCRIPTION": "下两个回合伤害加倍 给与自身 !M! 层易伤和虚弱"
+  "DESCRIPTION": "下两个回合 伤害加倍 给与自身 !M! 层 易伤 和 虚弱 "
 },
   "RemiliaMod:CWYW": {
     "NAME": "巫妖王",
@@ -205,12 +205,12 @@
   },
   "RemiliaMod:CPFPDLL": {
   "NAME": "分配大力量",
-  "DESCRIPTION": " 获得6点 力量 ,失去6点 敏捷 ，抽 !M! 张牌 ， 消耗 ",
+  "DESCRIPTION": " 获得6点 力量 ,失去6点 敏捷 ，抽 !M! 张牌",
   "UPGRADE_DESCRIPTION": " 费用-1 "
 },
   "RemiliaMod:CFPDMJ": {
   "NAME": "分配大敏捷",
-  "DESCRIPTION": " 获得6点 敏捷 ,失去6点 力量 ，抽 !M! 张牌 ， 消耗 ",
+  "DESCRIPTION": " 获得6点 敏捷 ,失去6点 力量 ，抽 !M! 张牌 ",
   "UPGRADE_DESCRIPTION": " 费用-1 "
 },
   "RemiliaMod:CPQHZZ": {
@@ -342,5 +342,10 @@
   "NAME": "虚弱能力",
   "DESCRIPTION": "给与 虚弱能力 ",
   "UPGRADE_DESCRIPTION": "   费用-1  "
-}
+ },
+  "RemiliaMod:CYYRS": {
+    "NAME": "「羽衣若时」",
+    "DESCRIPTION": "需要 五层 符文准备 ，获得 !M! 层 人工制品 ，获得 !D! 层 回响 ",
+    "UPGRADE_DESCRIPTION": "   需要 五层 符文准备   "
+  }
 }
