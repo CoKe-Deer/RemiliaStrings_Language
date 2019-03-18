@@ -92,5 +92,26 @@
     "开始回合时，给予 怪物  ",
     "层 #y虚弱"
   ]
-}
+},
+  "Yakumo Yukari Time Warp": {
+  "NAME": "八云紫的境界",
+  "DESCRIPTIONS": [
+    "每当你打出 #b",
+    " 张牌，你的回合会强制结束，并且八云紫获得 #b",
+    " 点 #y力量 。",
+    "每当你打出技能牌时，获得一点力量"
+  ]
+},
+  "Yakumo Yukari Thousand Cuts": {
+    "NAME": "八云紫的凌迟",
+    "DESCRIPTIONS": [
+      "轮到八云紫的回合对你释放 X 层毒 #b"
+    ]
+  },
+  "Yakumo Yukari NL3": {
+    "NAME": "八云紫的恩赐",
+    "DESCRIPTIONS": [
+      "轮到八云紫的回合给自身加一层符文之力，当有八层时给玩家 10 层 消逝 "
+    ]
+  }
 }

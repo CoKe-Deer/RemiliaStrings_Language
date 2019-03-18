@@ -86,6 +86,27 @@
       "Give the monster when starting the round   ",
       " #yWeak"
     ]
+  },
+  "Yakumo Yukari Time Warp": {
+  "NAME": "The Realm of Eight Clouds Purple",
+  "DESCRIPTIONS": [
+    "Whenever you beat #b",
+    "The card, the round of the slap will be forced to end, and the eight clouds will get #b",
+    "Point #y strength.",
+    "Whenever you hit a skill card, gain strength."
+  ]
+},
+  "Yakumo Yukari Thousand Cuts": {
+    "NAME": "Yang Yunzi's Ling Chi",
+    "DESCRIPTIONS": [
+      "It's the turn of the eight clouds of purple to release the X layer of poison #b"
+    ]
+  },
+  "Yakumo Yukari NL3": {
+    "NAME": "The gift of Eight Clouds Purple",
+    "DESCRIPTIONS": [
+      "It's the turn of the eight-cloud purple turn to add a layer of rune power to the player. When there are eight layers, the player will lose 10 layers."
+    ]
   }
 
 }
