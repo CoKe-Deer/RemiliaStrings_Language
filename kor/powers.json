@@ -93,7 +93,8 @@
     "Whenever you beat #b",
     "The card, the round of the slap will be forced to end, and the eight clouds will get #b",
     "Point #y strength.",
-    "Whenever you hit a skill card, gain strength."
+    "Whenever you hit a skill card, gain ",
+    " strength."
   ]
 },
   "Yakumo Yukari Thousand Cuts": {
@@ -105,7 +106,14 @@
   "Yakumo Yukari NL3": {
     "NAME": "The gift of Eight Clouds Purple",
     "DESCRIPTIONS": [
-      "It's the turn of the eight-cloud purple turn to add a layer of rune power to the player. When there are eight layers, the player will lose 10 layers."
+      "It's the turn of the eight-cloud purple turn to add a layer of rune power to the player. When him are eight layers, Gain 10 Blessings of Eight Clouds Purple."
+    ]
+  },
+  "Yakumo Yukari XS": {
+    "NAME": "Blessings of Eight Clouds Purple",
+    "DESCRIPTIONS": [
+      "It’s the turn of the eight-cloud purple round, and there are,",
+      "Bed to death"
     ]
   }
 

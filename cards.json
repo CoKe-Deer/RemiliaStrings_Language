@@ -347,6 +347,11 @@
     "NAME": "Feather time",
     "DESCRIPTION": "Require 5 Runes. Gain !M! Artifact. Gain !D! Ethereal ",
     "UPGRADE_DESCRIPTION": "   Require 5 Runes.   "
+  },
+  "RemiliaMod:PLY": {
+    "NAME": "Penglai's Medicine",
+    "DESCRIPTION": "The card is all unknown.",
+    "UPGRADE_DESCRIPTION": "The card is all unknown."
   }
 
 

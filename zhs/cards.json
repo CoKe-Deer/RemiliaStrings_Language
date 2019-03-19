@@ -347,5 +347,10 @@
     "NAME": "「羽衣若时」",
     "DESCRIPTION": "需要 五层 符文准备 ，获得 !M! 层 人工制品 ，获得 !D! 层 回响 ",
     "UPGRADE_DESCRIPTION": "   需要 五层 符文准备   "
+  },
+  "RemiliaMod:PLY": {
+    "NAME": "「蓬莱之药」",
+    "DESCRIPTION": "该卡牌全是未知的效果 ",
+    "UPGRADE_DESCRIPTION": "   该卡牌全是未知的效果   "
   }
 }
