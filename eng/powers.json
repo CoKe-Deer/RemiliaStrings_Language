@@ -33,8 +33,7 @@
   "Flight2": {
     "NAME": "Flight mode",
     "DESCRIPTIONS": [
-      "Reduce the #y attack damage you receive by #b50%. If it is #y attacked in a round, it hurts #b",
-      " Once, it will be cancelled."
+      "Reduce the #y attack damage you receive by #b50%. "
     ]
   },
   "RemiliaMod:PBZMS": {

@@ -27,8 +27,8 @@
   },
   "RemiliaMod:CAattack_s": {
     "NAME": "Combo : Final Strike",
-    "DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust.",
-    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust."
+    "DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust .",
+    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust ."
   },
   "RemiliaMod:CFx": {
     "NAME": "Flight Mode",
@@ -87,7 +87,7 @@
 },
   "RemiliaMod:CPHwYb": {
     "NAME": "Red Mist Incident",
-    "DESCRIPTION": "The Red Mist is spreading over the battlefield... Exhaust. Ethereal.",
+    "DESCRIPTION": "The Red Mist is spreading over the battlefield... Exhaust . Ethereal.",
     "UPGRADE_DESCRIPTION": " Fee -1"
   },
   "RemiliaMod:CHMF": {
@@ -138,11 +138,11 @@
   },
   "RemiliaMod:CJNCJFJ": {
     "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust three cards. Gain 3 energy."
+    "DESCRIPTION": " Exhaust three cards. Gain 3 energy."
 },
   "RemiliaMod:CJNHS": {
     "NAME": "Trash can",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equivalent to its cost."
+    "DESCRIPTION": " Exhaust a card. NL Gain [B] equivalent to its cost."
   },
   "RemiliaMod:CMAXBY": {
   "NAME": "Lesser Night ",
@@ -151,7 +151,7 @@
 },
   "RemiliaMod:CJNSP": {
   "NAME": "Offering to the Lady",
-  "DESCRIPTION": "Exhaust a card. Draw a card. Gain !B! Block "
+  "DESCRIPTION": " Exhaust a card. Draw a card. Gain !B! Block "
 },
   "RemiliaMod:CJNSJDF": {
     "NAME": "Opportunistic attack",
@@ -205,12 +205,12 @@
   },
   "RemiliaMod:CPFPDLL": {
   "NAME": "Reckless Mistress",
-  "DESCRIPTION": " Gain 6 Strength. Lose 6 Dexterity. Draw !M! card. Exhaust. ",
+  "DESCRIPTION": " Gain 6 Strength. Lose 6 Dexterity. Draw !M! card. Exhaust . ",
   "UPGRADE_DESCRIPTION": " Fee-1 "
 },
   "RemiliaMod:CFPDMJ": {
     "NAME": "Cautious Mistress",
-    "DESCRIPTION": " Gain 6 Dexterity. Lose 6 Strength, Draw !M! card. Exhaust. ",
+    "DESCRIPTION": " Gain 6 Dexterity. Lose 6 Strength, Draw !M! card. Exhaust . ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CPQHZZ": {
@@ -220,18 +220,18 @@
   },
   "RemiliaMod:CJNWYXD": {
   "NAME": "Maid's Gift",
-  "DESCRIPTION": "Gain !M! Maid Knives. Gain !B! block. Exhaust. ",
-  "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Gain !B! block. Exhaust."
+  "DESCRIPTION": "Gain !M! Maid Knives. Gain !B! block. Exhaust . ",
+  "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Gain !B! block. Exhaust ."
 },
   "RemiliaMod:CJNWYXD2": {
     "NAME": "Maid's Offering",
-    "DESCRIPTION": "Gain !M! Maid Knives. Gain !B! block. Draw a card. Exhaust. ",
-    "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Gain !B! block. Draw a card. Exhaust."
+    "DESCRIPTION": "Gain !M! Maid Knives. Gain !B! block. Draw a card. Exhaust . ",
+    "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Gain !B! block. Draw a card. Exhaust ."
   },
   "RemiliaMod:CJNWYXD3": {
     "NAME": "Maid's Devotion",
-    "DESCRIPTION": "Gain !M! Maid Knives. Drawn a card. Gain 1 rune. Exhaust.",
-    "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Drawn a card. Gain 1 rune. Exhaust."
+    "DESCRIPTION": "Gain !M! Maid Knives. Drawn a card. Gain 1 rune. Exhaust .",
+    "UPGRADE_DESCRIPTION": "Gain !M! upgraded Maid Knives. Drawn a card. Gain 1 rune. Exhaust ."
   },
   "RemiliaMod:CPWYXD": {
     "NAME": "Infinite knife",
@@ -240,7 +240,7 @@
   },
   "RemiliaMod:CWYXD": {
     "NAME": "Maid's Knives",
-    "DESCRIPTION": "A gift from your servant. Deal !D! physical damage. Exhaust. ",
+    "DESCRIPTION": "A gift from your servant. Deal !D! physical damage. Exhaust . ",
     "UPGRADE_DESCRIPTION": "  "
   },
   "RemiliaMod:CBYZLC": {
@@ -260,17 +260,17 @@
 },
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
-  "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust.",
+  "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust .",
   "UPGRADE_DESCRIPTION": " Fee-1 "
 },
   "RemiliaMod:CZXSJ": {
     "NAME": "Medium crystal",
-    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust. ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CDXSJ": {
     "NAME": "Large crystal",
-    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust. ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
     "UPGRADE_DESCRIPTION": " Fee-1 "
   },
   "RemiliaMod:CPJHZZ": {
