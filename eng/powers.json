@@ -76,15 +76,15 @@
   "RemiliaMod:PYSNL": {
     "NAME": "Vulnerability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round ",
-      " #yVulnerable."
+      "Give all monsters",
+      " #yVulnerable when starting the round."
     ]
   },
   "RemiliaMod:PXRNL": {
     "NAME": "Weak ability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round ",
-      " #yWeak."
+      "Give all monsters",
+      " #yWeak when starting the round."
     ]
   },
   "Yakumo Yukari Time Warp": {
