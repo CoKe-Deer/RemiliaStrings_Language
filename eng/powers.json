@@ -16,7 +16,7 @@
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      " Remilia changed the whole environment of Gensokyo. ",
+      "Remilia changed the whole environment of Gensokyo. ",
       "Add X Red Magic to your hand every turn."
     ]
   },
@@ -40,12 +40,12 @@
   "RemiliaMod:PBZMS": {
   "NAME": "Blood Frenzy",
   "DESCRIPTIONS": [
-    " Remilia uses the power of her existence",
+    "Remilia uses the power of her existence",
     "Deal double damage",
     "Lose 6 HP per turn",
-    "Gain two energy points",
-    "Draw two cards",
-    "Four Vulnerable "
+    "Gain two energy points every turn",
+    "Draw two cards every turn",
+    "Gain four Vulnerable"
   ]
 },
   "RemiliaMod:PWXXD": {
@@ -57,63 +57,63 @@
   "RemiliaMod:PFHGJ": {
     "NAME": "Corruption attack",
     "DESCRIPTIONS": [
-      "Explode when attacking an attack card"
+      "Consume all attack cards used."
     ]
   },
   "RemiliaMod:PFHFY": {
     "NAME": "Corruption defense",
     "DESCRIPTIONS": [
-      "Gain 8 Block when you consume an attack card. Draw one cards "
+      "Gain 8 Block when you consume an attack card. Draw one card when you consume a card."
     ]
   },
   "RemiliaMod:PYSGJ": {
   "NAME": "Vulnerable attack",
   "DESCRIPTIONS": [
-    "Whenever you cause an unblocked #y attack damage, give ",
-    " #yVulnerable "
+    "Whenever you cause unblocked #yattack damage, give ",
+    " #yVulnerable."
   ]
 },
   "RemiliaMod:PYSNL": {
     "NAME": "Vulnerability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round  ",
-      " #yVulnerable"
+      "Give all monsters",
+      " #yVulnerable when starting the round."
     ]
   },
   "RemiliaMod:PXRNL": {
     "NAME": "Weak ability",
     "DESCRIPTIONS": [
-      "Give the monster when starting the round   ",
-      " #yWeak"
+      "Give all monsters",
+      " #yWeak when starting the round."
     ]
   },
   "Yakumo Yukari Time Warp": {
-  "NAME": "The Realm of Eight Clouds Purple",
+  "NAME": "Yakumo Yukari Time Warp",
   "DESCRIPTIONS": [
-    "Whenever you beat #b",
-    "The card, the round of the slap will be forced to end, and the eight clouds will get #b",
-    "Point #y strength.",
-    "Whenever you hit a skill card, gain ",
+    "Whenever you play #b",
+    " more cards, your turn will be forced to end, and Yakumo Yukari will gain #b",
+    " points of #ystrength.",
+    "Whenever you play a skill card, gain ",
     " strength."
   ]
 },
   "Yakumo Yukari Thousand Cuts": {
-    "NAME": "Yang Yunzi's Ling Chi",
+    "NAME": "Yakumo Yukari Thousand Cuts",
     "DESCRIPTIONS": [
-      "It's the turn of the eight clouds of purple to release the X layer of poison #b"
+      "At her turn, Yakumo Yukari removes your poison and gains its amount in HP. #b"
     ]
   },
   "Yakumo Yukari NL3": {
-    "NAME": "The gift of Eight Clouds Purple",
+    "NAME": "The gift of Yukari Yakumo",
     "DESCRIPTIONS": [
-      "It's the turn of the eight-cloud purple turn to add a layer of rune power to the player. When him are eight layers, Gain 10 Blessings of Eight Clouds Purple."
+      "At Yakumo Yukari's turn, add one layer of power to the player. When there are eight layers,　give 10 Blessings of Yakumo Yukari."
     ]
   },
   "Yakumo Yukari XS": {
-    "NAME": "Blessings of Eight Clouds Purple",
+    "NAME": "Blessings of Yukari Yakumo",
     "DESCRIPTIONS": [
-      "It’s the turn of the eight-cloud purple round, and there are,",
-      "Bed to death"
+      "At Yakumo Yukari's turn, in ",
+      " turns, you die."
     ]
   }
 
