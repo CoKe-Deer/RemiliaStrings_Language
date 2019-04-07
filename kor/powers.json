@@ -3,8 +3,8 @@
       "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
           " obtain",
-          " Point physical bonus ",
-          " Point magic bonus."
+          " Point physical bonus NL ",
+          " Point magic bonus. NL "
       ]
     },
    "RemiliaMod:PFWZL": {
@@ -16,18 +16,18 @@
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      "Remilia changed the whole environment of Gensokyo. ",
+      "Remilia changed the whole environment of Gensokyo. NL  ",
       "Add X Red Magic to your hand every turn."
     ]
   },
   "RemiliaMod:PQNXXG": {
     "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
-      "Remilia's ability to revive the millennium",
-      "Respond every time an attack card is played 3 + the number of layers of this ability",
-      "Add a thousand years of vampires per turn",
-      "Get a little agility and strength every turn",
-      "At the beginning of the round, two selection cards are given."
+      "Remilia's ability to revive the millennium NL ",
+      "Respond every time an attack card is played 3 + the number of layers of this ability NL ",
+      "Add a thousand years of vampires per turn NL ",
+      "Get a little agility and strength every turn NL ",
+      "At the beginning of the round, two selection cards are given. NL "
     ]
   },
   "Flight2": {

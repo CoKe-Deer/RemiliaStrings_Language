@@ -17,32 +17,32 @@
   },
   "RemiliaMod:CAattack": {
     "NAME": "Combo : First Strike",
-    "DESCRIPTION": "Deal !D! damage, draw 1 card and upgrade this card for the rest of the combat. Get Combo : Second Strike after playing 3 times.",
+    "DESCRIPTION": "Deal !D! damage, draw 1 card. Get Combo : Second Strike after playing 3 times. Self-Upgrading ",
     "UPGRADE_DESCRIPTION": "Deal !D! damage, draw 1 card and upgrade this card for the rest of the combat. Get Combo : Second Strike after playing 3 times."
   },
   "RemiliaMod:CAattack_t": {
     "NAME": "Combo : Second Strike",
-    "DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Upgrade this card for the rest of combat.",
+    "DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Self-Upgrading ",
     "UPGRADE_DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Upgrade this card for the rest of combat."
   },
   "RemiliaMod:CAattack_s": {
     "NAME": "Combo : Final Strike",
-    "DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust .",
+    "DESCRIPTION": "Deal !D! Physical damage to all enemies. Exhaust .",
     "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust ."
   },
   "RemiliaMod:CFx": {
     "NAME": "Flight Mode",
-    "DESCRIPTION": "Gain Flight for the rest of combat",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "DESCRIPTION": "Gain R-flight for the rest of combat",
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CFxAttack": {
     "NAME": "Flying blow",
-    "DESCRIPTION": "Deal !D! physical damage. Upgrade this card for the rest of combat. Requires Flight.",
+    "DESCRIPTION": "Deal !D! physical damage. Upgrade this card for the rest of combat. Requires R-flight .",
     "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CFTAttack": {
   "NAME": "Flying kick",
-  "DESCRIPTION": "Remilia cause !D! physical damage 2 times. Apply 1 vulnerable. Upgrade all. Requires Flight.",
+  "DESCRIPTION": "Remilia cause !D! physical damage 2 times. Apply 1 vulnerable. Self-Upgrading . Requires R-flight .",
   "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CDB": {
@@ -57,68 +57,68 @@
 },
   "RemiliaMod:CJDB": {
     "NAME": "Aerial Strike",
-    "DESCRIPTION": "Remilia deals !D! Physical damage 4 times, gives the enemy !M! Vulnerable and draws one card. Requires Flight.",
+    "DESCRIPTION": "Remilia deals !D! Physical damage 4 times, gives the enemy !M! Vulnerable and draws one card. Requires R-flight .",
     "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CSlAttack": {
     "NAME": "Burst Fire",
-    "DESCRIPTION": "Remilia deals !D! Physical damage 3 times. If it destroys the target's block, then Upgrade all.",
-    "UPGRADE_DESCRIPTION": " fee TEST -1 "
+    "DESCRIPTION": "Remilia deals !D! Physical damage 3 times. If it destroys the target's block, then Self-Upgrading .",
+    "UPGRADE_DESCRIPTION": " Cost TEST -1 "
   },
   "RemiliaMod:CMABianfuzhen": {
     "NAME": "Bat Swarm",
-    "DESCRIPTION": "Deal !D! magical damage to all enemies. Upgrade all and draw one card. If you have 3 copies in hand, obtain Lesser Gungnir.",
+    "DESCRIPTION": "Deal !D! magical damage to all enemies. Self-Upgrading and draw one card. If you have 3 copies in hand, obtain Lesser Gungnir.",
     "UPGRADE_DESCRIPTION": "Magic A Remelia's Magical Damage Attack Magic A"
   },
   "RemiliaMod:CMADc": {
   "NAME": "Vampire Bat",
-  "DESCRIPTION": "Deal !D! magical damage 10 times. If you have 1 rune, Upgrade All. If you have 3 copies in your hand, obtain Eternal Night.",
+  "DESCRIPTION": "Deal !D! magical damage 10 times. If you have 1 rune, Self-Upgrading . If you have 3 copies in your hand, obtain Eternal Night.",
   "UPGRADE_DESCRIPTION": "Need a layer of rune preparation."
   },
   "RemiliaMod:CMAXSq": {
   "NAME": "Lesser Gungnir",
-  "DESCRIPTION": "Deals !D!  Magic damage, upgrade all. Apply Weak and Vulnerable. Requires 2 Runes.",
+  "DESCRIPTION": "Deals !D!  Magic damage, Self-Upgrading . Apply Weak and Vulnerable. Requires 2 Runes.",
   "UPGRADE_DESCRIPTION": "Need two layers of rune preparation"
   },
   "RemiliaMod:CMODSq": {
   "NAME": "Flawless Gungnir",
-  "DESCRIPTION": "Deal !D!  magic damage to all, upgrade all. Apply Weak and Vulnerable. Require Red Mist Incident and 4 Runes.",
+  "DESCRIPTION": "Deal !D!  magic damage to all, Self-Upgrading . Apply Weak and Vulnerable. Require Red Mist Incident and 4 Runes.",
   "UPGRADE_DESCRIPTION": "Need four layers of rune preparation and red fog change"
 },
   "RemiliaMod:CPHwYb": {
     "NAME": "Red Mist Incident",
-    "DESCRIPTION": "The Red Mist is spreading over the battlefield... Exhaust . Ethereal.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "DESCRIPTION": "The Red Mist is spreading over the battlefield...  Ethereal.",
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CHMF": {
     "NAME": "Red magic",
     "DESCRIPTION": "Remilia deals !D! Magical damage to all. Apply !M! Poison. Require Red Mist Incident.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CPXsg": {
     "NAME": "Millenium Vampire",
     "DESCRIPTION": "Remilia gains Millenium Vampire for the remaining of the fight.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CFPLL": {
     "NAME": "Offense Switch",
     "DESCRIPTION": "Remilia gains 1 Strength in exchange for one dexterity.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CFPMJ": {
     "NAME": "Defense Switch",
     "DESCRIPTION": "Remilia gains 1 Dexterity in exchange for 1 strength.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CPFWZL": {
     "NAME": "Runic Readiness",
     "DESCRIPTION": "Gain 1 rune.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CPZQ": {
     "NAME": "Enhancement",
     "DESCRIPTION": "Gain 100 experience points and 1 Strength.",
-    "UPGRADE_DESCRIPTION": " Fee -1"
+    "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CJNGSYD": {
     "NAME": "Swiftness",
@@ -146,7 +146,7 @@
   },
   "RemiliaMod:CMAXBY": {
   "NAME": "Lesser Night ",
-  "DESCRIPTION": " Deal !D! Magic damage 3 times to all enemies. Upgrade All. Inflict Weak and Vulnerable to all. Requires 3 Runes.",
+  "DESCRIPTION": " Deal !D! Magic damage 3 times to all enemies. Self-Upgrading . Inflict Weak and Vulnerable to all. Requires 3 Runes.",
   "UPGRADE_DESCRIPTION": "Need three layers of Rune"
 },
   "RemiliaMod:CJNSP": {
@@ -175,48 +175,48 @@
   },
   "RemiliaMod:CMADBY": {
   "NAME": "Eternal Night",
-  "DESCRIPTION": "Deal !D! magic damage 8 times to all enemies. Upgrade All. Inflict Weak and Vulnerable to all enemies. Requires 8 Runes.",
+  "DESCRIPTION": "Deal !D! magic damage 8 times to all enemies. Self-Upgrading . Inflict Weak and Vulnerable to all enemies. Requires 8 Runes.",
   "UPGRADE_DESCRIPTION": " Need eight layers of rune preparation "
 },
   "RemiliaMod:CJNYSFZ": {
     "NAME": "Injury reversal",
     "DESCRIPTION": "Remilia uses a little trick to exchange her vulnerability and her enemy's, gaining 6 times the difference in block. ",
-    "UPGRADE_DESCRIPTION": " fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CJNXRFZ": {
     "NAME": "Weakness reversal",
     "DESCRIPTION": "Remilia uses a little trick to exchange her weakness and her enemy's, gaining 6 times the difference in block. ",
-    "UPGRADE_DESCRIPTION": " fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CJNLLFZ": {
     "NAME": "Strength reversal",
     "DESCRIPTION": "Remilia uses a little trick to exchange her strength and her enemy's, gaining 6 times the difference in block. ",
-    "UPGRADE_DESCRIPTION": " fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CJNMJFZ": {
     "NAME": "Dexterity reversal",
     "DESCRIPTION": "Remilia uses a little trick to exchange her dexterity and her enemy's, gaining 6 times the difference in block. ",
-    "UPGRADE_DESCRIPTION": " fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CPBZMF": {
     "NAME": "Blood Frenzy",
     "DESCRIPTION": "Fear not power itself, but the one who wields it.",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CPFPDLL": {
   "NAME": "Reckless Mistress",
   "DESCRIPTION": " Gain 6 Strength. Lose 6 Dexterity. Draw !M! card. Exhaust . ",
-  "UPGRADE_DESCRIPTION": " Fee-1 "
+  "UPGRADE_DESCRIPTION": " Cost-1 "
 },
   "RemiliaMod:CFPDMJ": {
     "NAME": "Cautious Mistress",
     "DESCRIPTION": " Gain 6 Dexterity. Lose 6 Strength, Draw !M! card. Exhaust . ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CPQHZZ": {
     "NAME": "Venomous Minions",
     "DESCRIPTION": "Apply !M! poison every time an attack causes direct damage.  ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CJNWYXD": {
   "NAME": "Maid's Gift",
@@ -261,37 +261,37 @@
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
   "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust .",
-  "UPGRADE_DESCRIPTION": " Fee-1 "
+  "UPGRADE_DESCRIPTION": " Cost-1 "
 },
   "RemiliaMod:CZXSJ": {
     "NAME": "Medium crystal",
     "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CDXSJ": {
     "NAME": "Large crystal",
     "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CPJHZZ": {
     "NAME": "Mistress's scheme",
     "DESCRIPTION": "At the end of your turn, retain !M!",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CMPA": {
     "NAME": "Fragment: Heal",
     "DESCRIPTION": "Heal !D!.  ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CMPB": {
     "NAME": "Fragment : Thorn",
     "DESCRIPTION": "Gain !D! Thorns. ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CMPC": {
     "NAME": "Fragment: Armor",
     "DESCRIPTION": "Gain !D! Plated Armor. ",
-    "UPGRADE_DESCRIPTION": " Fee-1 "
+    "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CMMDMP": {
     "NAME": "Mima's Spark",
@@ -316,12 +316,12 @@
   "RemiliaMod:CFHGJ": {
   "NAME": "Corruptive Attack",
   "DESCRIPTION": "Consume to bolster your offense.",
-  "UPGRADE_DESCRIPTION": "   Fee-1  "
+  "UPGRADE_DESCRIPTION": "   Cost-1  "
 },
   "RemiliaMod:CFHFY": {
     "NAME": "Corruptive Defense",
     "DESCRIPTION": "Consume to bolster your defenses.",
-    "UPGRADE_DESCRIPTION": "   Fee-1  "
+    "UPGRADE_DESCRIPTION": "   Cost-1  "
   },
   "RemiliaMod:CGJM": {
     "NAME": "Flandre's Eye",
@@ -331,17 +331,17 @@
   "RemiliaMod:CPYSNL": {
     "NAME": "Curse of Vulnerability",
     "DESCRIPTION": "Apply Vulnerable to all enemies at the beginning of each turn.",
-    "UPGRADE_DESCRIPTION": "   Fee-1  "
+    "UPGRADE_DESCRIPTION": "   Cost-1  "
   },
   "RemiliaMod:CPYSGJ": {
     "NAME": "No Mercy!",
     "DESCRIPTION": "Apply !M! Vulnerable every time an attack causes unblocked damage.",
-    "UPGRADE_DESCRIPTION": "   Fee-1  "
+    "UPGRADE_DESCRIPTION": "   Cost-1  "
   },
   "RemiliaMod:CPXRNL": {
     "NAME": "Curse of Weakness",
-    "DESCRIPTION": "Apply Vulnerable to all enemies at the beginning of each turn.",
-    "UPGRADE_DESCRIPTION": "   Fee-1  "
+    "DESCRIPTION": "Apply Weak to all enemies at the beginning of each turn.",
+    "UPGRADE_DESCRIPTION": "   Cost-1  "
   },
   "RemiliaMod:CYYRS": {
     "NAME": "Feather time",
@@ -350,8 +350,8 @@
   },
   "RemiliaMod:PLY": {
     "NAME": "Penglai's Medicine",
-    "DESCRIPTION": "The card is all unknown.",
-    "UPGRADE_DESCRIPTION": "The card is all unknown."
+    "DESCRIPTION": "The card is all Void.",
+    "UPGRADE_DESCRIPTION": "The card is all Void."
   }
 
 

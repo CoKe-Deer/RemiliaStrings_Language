@@ -13,7 +13,8 @@
   },
   "KallUp": {
       "NAMES": [
-        "Upgrade all"
+        "Self-Upgrading",
+        "self-upgrading"
       ],
       "DESCRIPTION": "Upgrade this card once it is played. #b 。"
     },
@@ -71,7 +72,8 @@
   },
   "KFX": {
     "NAMES": [
-      "flight"
+      "R-flight",
+      "r-flight"
     ],
     "DESCRIPTION": "Permanent Flight Status of the Vampire Princess."
   },
