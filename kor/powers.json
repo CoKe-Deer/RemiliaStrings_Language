@@ -2,38 +2,38 @@
     "RemiliaMod:PLZYCY": {
       "NAME": "Otherwordly Power",
       "DESCRIPTIONS": [
-          " obtain",
-          " Point physical bonus NL ",
-          " Point magic bonus. NL "
+          " Obtain:",
+          " points physical bonus",
+          " points magic bonus."
       ]
     },
    "RemiliaMod:PFWZL": {
     "NAME": "Rune power",
     "DESCRIPTIONS": [
-      "The power of one who is not a denizen of this world "
+      "The power of one who is not a denizen of this world. "
     ]
    },
   "RemiliaMod:PHWYB": {
     "NAME": "Red Mist Incident",
     "DESCRIPTIONS": [
-      "Remilia changed the whole environment of Gensokyo. NL  ",
+      "Remilia changed the whole environment of Gensokyo. ",
       "Add X Red Magic to your hand every turn."
     ]
   },
   "RemiliaMod:PQNXXG": {
     "NAME": "Millenium Vampire",
     "DESCRIPTIONS": [
-      "Remilia's ability to revive the millennium NL ",
-      "Respond every time an attack card is played 3 + the number of layers of this ability NL ",
-      "Add a thousand years of vampires per turn NL ",
-      "Get a little agility and strength every turn NL ",
-      "At the beginning of the round, two selection cards are given. NL "
+      "Remilia's ability to revive the millenniun",
+      "Respond every time an attack card is played 3 + the number of layers of this ability",
+      "Add a thousand years of vampires per turn",
+      "Get a little agility and strength every turn",
+      "At the beginning of the round, two selection cards are given."
     ]
   },
   "Flight2": {
     "NAME": "Flight mode",
     "DESCRIPTIONS": [
-      "Reduce the #y attack damage you receive by #b50%. "
+      "Reduce the #yattack damage you receive by #b50%. "
     ]
   },
   "RemiliaMod:PBZMS": {
@@ -75,14 +75,14 @@
   "RemiliaMod:PYSNL": {
     "NAME": "Vulnerability",
     "DESCRIPTIONS": [
-      "Give all monsters",
+      "Give all monsters ",
       " #yVulnerable when starting the round."
     ]
   },
   "RemiliaMod:PXRNL": {
     "NAME": "Weak ability",
     "DESCRIPTIONS": [
-      "Give all monsters",
+      "Give all monsters ",
       " #yWeak when starting the round."
     ]
   },
@@ -90,9 +90,9 @@
   "NAME": "Yakumo Yukari Time Warp",
   "DESCRIPTIONS": [
     "Whenever you play #b",
-    " more cards, your turn will be forced to end, and Yakumo Yukari will gain #b",
-    " points of #ystrength.",
-    "Whenever you play a skill card, gain ",
+    " cards, ends your turn and gains #b",
+    " #yStrength.",
+    "Whenever you play a skill card, gains ",
     " strength."
   ]
 },
@@ -105,7 +105,7 @@
   "Yakumo Yukari NL3": {
     "NAME": "The gift of Yukari Yakumo",
     "DESCRIPTIONS": [
-      "At Yakumo Yukari's turn, add one layer of power to the player. When there are eight layers,　give 10 Blessings of Yakumo Yukari."
+      "At her turn, Yakumo Yukari gains 1 rune power. When she has at least 8, she gives you 10 Blessings of Yakumo Yukari."
     ]
   },
   "Yakumo Yukari XS": {

@@ -3,7 +3,7 @@
     "NAME": "Experienced Devil",
     "FLAVOR": "As a young devil, you'll learn and improve during your journey",
     "DESCRIPTIONS": [
-      "Your experience will determine your magic bonus and physical bonus. NL ",
+      "Your experience will determine your magic bonus and physical bonus.",
       "Remilia gains the ability to learn from each battle."
     ]
   },
@@ -11,9 +11,9 @@
   "NAME": "Magic Crucible",
   "FLAVOR": "Remilia will refine lesser cards into avanced magic",
   "DESCRIPTIONS": [
-    "If you have 3 Bat Swarm in hand use the Crucible to exhaust them and gain Lesser Gungnir NL ",
-    "If you have 3 Vampire Bat in hand, exhaust them and gain Lesser Night NL ",
-    "Right click on the relic to obtain Runic Readiness NL ",
+    "If you have 3 Bat Swarm in hand use the Crucible to exhaust them and gain Lesser Gungnir",
+    "If you have 3 Vampire Bat in hand, exhaust them and gain Lesser Night",
+    "Right click on the relic to obtain Runic Readiness",
     "Start with 1 rune"
   ]
 },
@@ -36,7 +36,7 @@
     "NAME": "Maid Service",
     "FLAVOR": "Your servant shall assist you in battle",
     "DESCRIPTIONS": [
-      "If you play 3 Maid's Knives in one round, heal 1 HP and gain 2 Rune NL ",
+      "If you play 3 Maid's Knives in one round, heal 1 HP and gain 2 Rune",
       " Accumulate 5 Fragments in your deck to permanently obtain Mima's Spark"
     ]
   },
