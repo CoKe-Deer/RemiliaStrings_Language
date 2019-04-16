@@ -28,7 +28,7 @@
   "RemiliaMod:CAattack_s": {
     "NAME": "Combo : Final Strike",
     "DESCRIPTION": "Deal !D! Physical damage to all enemies. Exhaust .",
-    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Self-Upgrading Exhaust ."
+    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Self-Upgrading. Exhaust ."
   },
   "RemiliaMod:CFx": {
     "NAME": "Flight Mode",
