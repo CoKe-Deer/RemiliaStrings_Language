@@ -1,7 +1,7 @@
 {
   "RemiliaMod:Scratch": {
     "NAME": "Vampire Claw",
-    "DESCRIPTION": "Basic physical attack that deals !D! points damage",
+    "DESCRIPTION": "Basic physical attack that deals !D! points damage.",
 	"EXTENDED_DESCRIPTION": [
       "Physical  attack",
       "One of Remilia's attack"
@@ -17,32 +17,32 @@
   },
   "RemiliaMod:CAattack": {
     "NAME": "Combo : First Strike",
-    "DESCRIPTION": "Deal !D! damage, draw 1 card. Get Combo : Second Strike after playing 3 times. Self-Upgrading ",
+    "DESCRIPTION": "Deal !D! damage, draw 1 card. Get Combo : Second Strike after playing 3 times. Self-Upgrading. ",
     "UPGRADE_DESCRIPTION": "Deal !D! damage, draw 1 card and upgrade this card for the rest of the combat. Get Combo : Second Strike after playing 3 times."
   },
   "RemiliaMod:CAattack_t": {
     "NAME": "Combo : Second Strike",
-    "DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Self-Upgrading ",
+    "DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Self-Upgrading. ",
     "UPGRADE_DESCRIPTION": "Deal !D! physical damage twice. Get Combo : Final Strike after playing 3 times. Upgrade this card for the rest of combat."
   },
   "RemiliaMod:CAattack_s": {
     "NAME": "Combo : Final Strike",
     "DESCRIPTION": "Deal !D! Physical damage to all enemies. Exhaust .",
-    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Upgrade this card for the rest of combat. Exhaust ."
+    "UPGRADE_DESCRIPTION": "Deal !D! Physical damage to all enemies. Self-Upgrading. Exhaust ."
   },
   "RemiliaMod:CFx": {
     "NAME": "Flight Mode",
-    "DESCRIPTION": "Gain R-flight for the rest of combat",
+    "DESCRIPTION": "Gain R-flight for the rest of combat.",
     "UPGRADE_DESCRIPTION": " Cost -1"
   },
   "RemiliaMod:CFxAttack": {
     "NAME": "Flying blow",
-    "DESCRIPTION": "Deal !D! physical damage. Upgrade this card for the rest of combat. Requires R-flight .",
+    "DESCRIPTION": "Deal !D! physical damage. Self-Upgrading. Requires R-flight.",
     "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CFTAttack": {
   "NAME": "Flying kick",
-  "DESCRIPTION": "Remilia cause !D! physical damage 2 times. Apply 1 vulnerable. Self-Upgrading . Requires R-flight .",
+  "DESCRIPTION": "Remilia cause !D! physical damage 2 times. Apply 1 vulnerable. Self-Upgrading. Requires R-flight .",
   "UPGRADE_DESCRIPTION": "Need to have flight mode."
   },
   "RemiliaMod:CDB": {
@@ -72,7 +72,7 @@
   },
   "RemiliaMod:CMADc": {
   "NAME": "Vampire Bat",
-  "DESCRIPTION": "Deal !D! magical damage 10 times. If you have 1 rune, Self-Upgrading . If you have 3 copies in your hand, obtain Eternal Night.",
+  "DESCRIPTION": "Deal !D! magical damage 10 times. If you have 1 rune, Self-Upgrading. If you have 3 copies in your hand, obtain Eternal Night.",
   "UPGRADE_DESCRIPTION": "Need a layer of rune preparation."
   },
   "RemiliaMod:CMAXSq": {
@@ -146,7 +146,7 @@
   },
   "RemiliaMod:CMAXBY": {
   "NAME": "Lesser Night ",
-  "DESCRIPTION": " Deal !D! Magic damage 3 times to all enemies. Self-Upgrading . Inflict Weak and Vulnerable to all. Requires 3 Runes.",
+  "DESCRIPTION": " Deal !D! Magic damage 3 times to all enemies. Self-Upgrading. Inflict Weak and Vulnerable to all. Requires 3 Runes.",
   "UPGRADE_DESCRIPTION": "Need three layers of Rune"
 },
   "RemiliaMod:CJNSP": {
@@ -260,17 +260,17 @@
 },
   "RemiliaMod:CXXSJ": {
   "NAME": "Small crystal",
-  "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust .",
+  "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust.",
   "UPGRADE_DESCRIPTION": " Cost-1 "
 },
   "RemiliaMod:CZXSJ": {
     "NAME": "Medium crystal",
-    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust. ",
     "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CDXSJ": {
     "NAME": "Large crystal",
-    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust . ",
+    "DESCRIPTION": "Deal !D! damage. Heal !M!. Exhaust. ",
     "UPGRADE_DESCRIPTION": " Cost-1 "
   },
   "RemiliaMod:CPJHZZ": {
@@ -345,7 +345,7 @@
   },
   "RemiliaMod:CYYRS": {
     "NAME": "Feather time",
-    "DESCRIPTION": "Require 5 Runes. Gain !M! Artifact. Gain !D! Ethereal. ",
+    "DESCRIPTION": "Require 5 Runes. Gain !M! Artifact. Gain !D! Echo. ",
     "UPGRADE_DESCRIPTION": "   Require 5 Runes.   "
   },
   "RemiliaMod:PLY": {
