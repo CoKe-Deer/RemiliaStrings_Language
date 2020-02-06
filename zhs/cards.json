@@ -1,6 +1,6 @@
 {
   "RemiliaMod:Scratch": {
-    "NAME": "抓击",
+    "NAME": "「抓击」",
     "DESCRIPTION": " 蕾米莉亚 使出基本 物理攻击 造成 !D! 点伤害。",
 	"EXTENDED_DESCRIPTION": [
       "物理攻击",
@@ -8,7 +8,7 @@
     ]
   },
   "RemiliaMod:Defend": {
-    "NAME": "抱头蹲防",
+    "NAME": "「抱头蹲防」",
     "DESCRIPTION": " 蕾米莉亚 抱头蹲防获得 !B! 点 格挡 。",
 	"EXTENDED_DESCRIPTION": [
       "抱头蹲防",
@@ -16,240 +16,240 @@
     ]
   },
   "RemiliaMod:CAattack": {
-    "NAME": "A连段",
+    "NAME": "「A连段」",
     "DESCRIPTION": " 连段A 造成!D! 点 物理伤害 ，升级这张牌时 抽一张牌 升级全部 打出 三 次后将第二 式 加入手牌",
     "UPGRADE_DESCRIPTION": " A 连段 蕾米莉亚的物理连段攻击，打出两次后将一张 A攻击 第二 式 加入卡组 打出这张牌时升级全部A攻击"
   },
   "RemiliaMod:CAattack_t": {
-    "NAME": "A连段 第二式",
+    "NAME": "「A连段 第二式」",
     "DESCRIPTION": "造成两次 !D! 点 物理伤害 。 连段A 强化版 第二 式 抽一张牌 升级全部 ",
     "UPGRADE_DESCRIPTION": " a连段 打出一次后  升级全部 A第二 式 造成 !D! 点伤害。 你每有一张名字中有 A 的牌 升级全部 。"
   },
   "RemiliaMod:CAattack_s": {
-    "NAME": "A连段 最终式",
+    "NAME": "「A连段 最终式」",
     "DESCRIPTION": "对所有怪物造成 !D! 点 物理伤害 。 连段A 强化版 最终 式 抽一张牌 消耗 升级全部 ",
     "UPGRADE_DESCRIPTION": " a连段 打出一次后 消耗 升级全部 连段A最终 式 造成 !D! 点伤害。 你每有一张名字中有 A 的牌 升级全部 。"
   },
   "RemiliaMod:CFx": {
-    "NAME": "飞行模式",
+    "NAME": "「飞行模式」",
     "DESCRIPTION": " 蕾米莉亚 该战斗获得 永久 飞行 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CFxAttack": {
-    "NAME": "飞空打击",
+    "NAME": "「飞空打击」",
     "DESCRIPTION": " 蕾米莉亚 造成一次 !D! 点 物理伤害 。身上必须有 飞行 才可有效 升级全部 ",
     "UPGRADE_DESCRIPTION": "需要有飞行模式"
   },
   "RemiliaMod:CFTAttack": {
-  "NAME": "飞踢",
+  "NAME": "「飞踢」",
   "DESCRIPTION": " 蕾米莉亚 造成两次 !D! 点 物理伤害 。  身上必须有 飞行 才可有效 给敌人一层 虚弱 升级全部 ",
   "UPGRADE_DESCRIPTION": "需要有飞行模式"
   },
   "RemiliaMod:CDB": {
-  "NAME": "地面骚扰B",
+  "NAME": "「地面骚扰B」",
   "DESCRIPTION": " 蕾米莉亚 造成四次 !D! 点 物理伤害 给与敌人 !M! 层 易伤 。",
   "UPGRADE_DESCRIPTION": "  "
   },
   "RemiliaMod:CD6B": {
-  "NAME": "地面骚扰6B",
+  "NAME": "「地面骚扰6B」",
   "DESCRIPTION": " 蕾米莉亚 造成四次 !D! 点 物理伤害 给与敌人 !M! 层 虚弱 。",
   "UPGRADE_DESCRIPTION": "  "
 },
   "RemiliaMod:CJDB": {
-    "NAME": "飞行骚扰B",
+    "NAME": "「飞行骚扰B」",
     "DESCRIPTION": " 蕾米莉亚 造成四次 !D! 点 物理伤害 给与敌人 !M! 层 易伤 抽一张牌 身上必须有 飞行 才可有效。",
     "UPGRADE_DESCRIPTION": " 需要有飞行模式 "
   },
   "RemiliaMod:CSlAttack": {
-    "NAME": "升龙",
+    "NAME": "「升龙」",
     "DESCRIPTION": " 蕾米莉亚 造成三次 !D! 点 物理伤害 破坏敌人的 格挡 升级全部 ",
     "UPGRADE_DESCRIPTION": " 费用 TEST -1 "
   },
   "RemiliaMod:CMABianfuzhen": {
-    "NAME": "蝙蝠阵 (初级魔法)",
+    "NAME": "「蝙蝠阵」",
     "DESCRIPTION": " 魔法A 对所有怪物造成 !D! 点 魔法伤害 。  升级全部  抽一张牌",
     "UPGRADE_DESCRIPTION": " 魔法A 蕾米莉亚的魔法伤害攻击 魔法A "
   },
   "RemiliaMod:CMADc": {
-  "NAME": "蝙蝠 (中级)",
+  "NAME": "「蝙蝠」",
   "DESCRIPTION": " 魔法A 造成十次 !D! 点 魔法伤害 。 需要一层 符文准备  升级全部 ",
   "UPGRADE_DESCRIPTION": " 需要一层 符文准备 "
   },
   "RemiliaMod:CMAXBY": {
-    "NAME": "小不夜 (中级)",
+    "NAME": "「小不夜」",
     "DESCRIPTION": " 魔法A 对所有怪物造成四次 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要三层 符文准备 ",
     "UPGRADE_DESCRIPTION": " 需要三层 符文准备 "
   },
   "RemiliaMod:CMAXSq": {
-  "NAME": "小神枪 (中级)",
+  "NAME": "「小神枪」",
   "DESCRIPTION": " 魔法A 对所有怪物造成 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要两层 符文准备 ",
   "UPGRADE_DESCRIPTION": " 需要二层 符文准备 "
   },
   "RemiliaMod:CMODSq": {
-  "NAME": "大神枪 (高级)",
+  "NAME": "「大神枪」",
   "DESCRIPTION": " 魔法A 对所有怪物造成四次 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要四层 符文准备 与 红雾异变 ",
     "UPGRADE_DESCRIPTION": " 需要四层 符文准备 与 红雾异变"
 },
   "RemiliaMod:CPHwYb": {
-    "NAME": "红雾异变",
+    "NAME": "「红雾异变」",
     "DESCRIPTION": " 蕾米莉亚 将在本场战斗获得 红雾异变 效果  虚无 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CHMF": {
-    "NAME": "红魔法（特殊）",
+    "NAME": "「红魔法（特殊）」",
     "DESCRIPTION": " 蕾米莉亚 使出基本的力量 对所有敌人造成 !D! 点 魔法伤害 给与敌人 !M! 中毒  需要 红雾异变 虚无 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CPXsg": {
-    "NAME": "千年吸血鬼",
+    "NAME": "「千年吸血鬼」",
     "DESCRIPTION": " 蕾米莉亚 将在本场战斗获得 千年吸血鬼 效果  ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CFPLL": {
-    "NAME": "分配力量",
+    "NAME": "「分配力量」",
     "DESCRIPTION": " 蕾米莉亚 获得一点 力量 失去一点 敏捷  虚无 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CFPMJ": {
-    "NAME": "分配敏捷",
+    "NAME": "「分配敏捷」",
     "DESCRIPTION": " 蕾米莉亚 获得一点 敏捷 失去一点 力量  虚无 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CPFWZL": {
-    "NAME": "符文之力（白色）",
+    "NAME": "「符文之力（白色）」",
     "DESCRIPTION": " 获得一层 符卡准备 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CPZQ": {
-    "NAME": "增强（蓝色能力）",
+    "NAME": "「增强（蓝色能力）」",
     "DESCRIPTION": " 获得 相对经验 100点 获得一层 力量 ",
     "UPGRADE_DESCRIPTION": " 费用 -1 "
   },
   "RemiliaMod:CJNGSYD": {
-    "NAME": "高速移动",
+    "NAME": "「高速移动」",
     "DESCRIPTION": " 抽 !M! 张牌 丢 !M! 张牌   "
   },
   "RemiliaMod:CJNJQFY": {
-    "NAME": "精巧防御",
+    "NAME": "「精巧防御」",
     "DESCRIPTION": " 抽 !M! 张牌 丢 一 张张牌 获得 !B! 点 格挡  "
   },
   "RemiliaMod:CJNFWZL": {
-    "NAME": "符文之力（金色）",
+    "NAME": "「符文之力（金色）」",
     "DESCRIPTION": " 获得 !M! 层 符卡准备 抽 !M! 张牌 获得 !B! 点 格挡 "
   },
   "RemiliaMod:CMEJNS": {
-    "NAME": "玛尔加尼斯",
+    "NAME": "「玛尔加尼斯」",
     "DESCRIPTION": " 加 10 点 血上限 获得 壁垒 ，获得 820 点 格挡 ，获得 3280 层 无实体  所有敌人失去 999 点 力量 。"
   },
   "RemiliaMod:CJNCJFJ": {
-    "NAME": "废物利用",
+    "NAME": "「废物利用」",
     "DESCRIPTION": "消耗三张牌，获得三点 能量 只有在手牌有足够牌时才有效 消耗"
   },
   "RemiliaMod:CJNHS": {
-    "NAME": "垃圾箱",
+    "NAME": "「垃圾箱」",
     "DESCRIPTION": "消耗 一张牌。 NL 获得与其耗能相等的 [B]  "
   },
   "RemiliaMod:CJNSP": {
-    "NAME": "烧牌",
+    "NAME": "「烧牌」",
     "DESCRIPTION": "消耗 一张牌 抽一张牌 获得 !B! 点 格挡 "
   },
   "RemiliaMod:CJNSJDF": {
-    "NAME": "伺机待发",
+    "NAME": "「伺机待发」",
     "DESCRIPTION": "获得两层 双发 效果 给与自身 !M! 层 易伤 和 虚弱 "
   },
   "RemiliaMod:CJNCMSS": {
-  "NAME": "沉默杀手",
+  "NAME": "「沉默杀手」",
   "DESCRIPTION": "下两个回合 伤害加倍 给与自身 !M! 层 易伤 和 虚弱 "
 },
   "RemiliaMod:CWYW": {
-    "NAME": "巫妖王",
+    "NAME": "「巫妖王」",
     "DESCRIPTION": "巫妖王将会给与你 霜之哀傷 "
   },
   "RemiliaMod:CSZBS": {
-    "NAME": "霜之哀伤",
+    "NAME": "「霜之哀伤」",
     "DESCRIPTION": "这把史诗级武器将给你70点 力量"
   },
   "RemiliaMod:CYMZW": {
-    "NAME": "拉格纳罗斯",
+    "NAME": "「拉格纳罗斯」",
     "DESCRIPTION": "炎魔之王会对一名敌人造成80次 !D! 点火焰伤害"
   },
   "RemiliaMod:CMADBY": {
-    "NAME": "大不夜 (高级)",
+    "NAME": "「大不夜」 ",
     "DESCRIPTION": " 魔法A 对所有怪物造成八次 !D! 点 魔法伤害 ， 升级全部 给与所有怪物 相对数 的 虚弱 与 易伤 需要八层 符文准备 ",
     "UPGRADE_DESCRIPTION": " 需要八层 符文准备 "
   },
   "RemiliaMod:CJNYSFZ": {
-    "NAME": "易伤反转",
+    "NAME": "「易伤反转」",
     "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的易伤层数，获得6+差值 格挡 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CJNXRFZ": {
-    "NAME": "虚弱反转",
+    "NAME": "「虚弱反转」",
     "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的虚弱层数，获得6+差值 格挡 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CJNLLFZ": {
-    "NAME": "力量反转",
+    "NAME": "「力量反转」",
     "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的力量层数，获得6+差值 格挡 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CJNMJFZ": {
-    "NAME": "敏捷反转",
+    "NAME": "「敏捷反转」",
     "DESCRIPTION": " 蕾米莉亚 运用一点技巧，反转敌人和自己的敏捷层数，获得6+差值 格挡 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CPBZMF": {
-    "NAME": "暴走模式",
+    "NAME": "「暴走模式」",
     "DESCRIPTION": " 力量本身并不可怕，可怕的是他的主人。 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CPFPDLL": {
-  "NAME": "分配大力量",
+  "NAME": "「分配大力量」",
   "DESCRIPTION": " 获得6点 力量 ,失去6点 敏捷 ，抽 !M! 张牌",
   "UPGRADE_DESCRIPTION": " 费用-1 "
 },
   "RemiliaMod:CFPDMJ": {
-  "NAME": "分配大敏捷",
+  "NAME": "「分配大敏捷」",
   "DESCRIPTION": " 获得6点 敏捷 ,失去6点 力量 ，抽 !M! 张牌 ",
   "UPGRADE_DESCRIPTION": " 费用-1 "
 },
   "RemiliaMod:CPQHZZ": {
-    "NAME": "强化爪子（毒）",
+    "NAME": "「强化爪子（毒）」",
     "DESCRIPTION": "每有一次攻击造成未被格挡的伤害，就给予 !M! 层 中毒 。 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CJNWYXD": {
-    "NAME": "初级潇洒",
+    "NAME": "「初级潇洒」",
     "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得 !B! 点 格挡 ， 消耗 ",
     "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得 !B! 点 格挡， 消耗 "
   },
   "RemiliaMod:CJNWYXD2": {
-    "NAME": "中级潇洒",
+    "NAME": "「中级潇洒」",
     "DESCRIPTION": "给与你 !M! 把16夜的小刀，获得 !B! 点 格挡 ，抽一张牌， 消耗 ",
     "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀 获得 !B! 点 格挡 抽一张牌， 消耗 "
   },
   "RemiliaMod:CJNWYXD3": {
-    "NAME": "高级潇洒",
+    "NAME": "「高级潇洒」",
     "DESCRIPTION": "给与你 !M! 把16夜的小刀 ，抽一张牌，获得一层 符文之力 ， 消耗 ",
     "UPGRADE_DESCRIPTION": " 给与你 !M! 升级过女仆的小刀  抽一张牌，获得一层 符文之力， 消耗 "
   },
   "RemiliaMod:CPWYXD": {
-    "NAME": "无限小刀",
+    "NAME": "「无限小刀」",
     "DESCRIPTION": "给与你 无限小刀 能力，该能力每回合给你Y张女仆的小刀。 ",
     "UPGRADE_DESCRIPTION": " "
   },
   "RemiliaMod:CWYXD": {
-  "NAME": "女仆的小刀",
+  "NAME": "「女仆的小刀」",
   "DESCRIPTION": "该小刀是16夜给与你的，造成 !D! 点 物理伤害 ， 消耗 ",
   "UPGRADE_DESCRIPTION": " 费用-1 "
 },
   "RemiliaMod:CBYZLC": {
-    "NAME": "八云紫asdasd....",
+    "NAME": "「八云紫asdasd....」",
     "DESCRIPTION": "需要 15 层 符文准备 ，造成三次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量..  ",
     "UPGRADE_DESCRIPTION": " 需要15层 符文准备 "
   },
   "RemiliaMod:CJNNPSJ": {
-    "NAME": "咲夜的世界",
+    "NAME": "「咲夜的世界」",
     "DESCRIPTION": "需要 12 层 符文准备 ，敌人降低 !M! 点力量，这张卡还隐藏着未知的力量..  ",
     "UPGRADE_DESCRIPTION": " 需要 12 层 符文准备 "
   },
@@ -259,47 +259,47 @@
     "UPGRADE_DESCRIPTION": " 需要12层 符文准备 "
   },
   "RemiliaMod:CXXSJ": {
-    "NAME": "小型法术水晶",
+    "NAME": "「小型法术水晶」",
     "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CZXSJ": {
-    "NAME": "中型法术水晶",
+    "NAME": "「中型法术水晶」",
     "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗  ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CDXSJ": {
-    "NAME": "大型法术水晶",
+    "NAME": "「大型法术水晶」",
     "DESCRIPTION": "造成 !D! 点伤害，回复 !M! 点生命， 消耗  ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CPJHZZ": {
-    "NAME": "计划之中",
+    "NAME": "「计划之中」",
     "DESCRIPTION": "回合结束保留 !M! 张手牌 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMPA": {
-    "NAME": "魔炮碎片A",
+    "NAME": "「魔炮碎片A」",
     "DESCRIPTION": "回复 !D! 点生命值 ,",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMPB": {
-    "NAME": "魔炮碎片B",
+    "NAME": "「魔炮碎片B」",
     "DESCRIPTION": "获得 !D! 层 荆棘 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMPC": {
-    "NAME": "魔炮碎片C",
+    "NAME": "「魔炮碎片C」",
     "DESCRIPTION": "获得 !D! 层 多层护甲 ",
     "UPGRADE_DESCRIPTION": " 费用-1 "
   },
   "RemiliaMod:CMMDMP": {
-    "NAME": "魅魔的魔炮",
+    "NAME": "「魅魔的魔炮」",
     "DESCRIPTION": "需要 五层 符文准备 ，造成一百次 !D! 点 魔法伤害 ，这张卡还隐藏着未知的力量.. ",
     "UPGRADE_DESCRIPTION": " 需要 五层 符文准备  "
   },
   "RemiliaMod:CSX": {
-    "NAME": "锁血",
+    "NAME": "「锁血」",
     "DESCRIPTION": " 礼物 ",
     "UPGRADE_DESCRIPTION": "   "
   },
@@ -309,37 +309,37 @@
     "UPGRADE_DESCRIPTION": "   需要5层 符文准备  "
   },
   "RemiliaMod:CHQS": {
-  "NAME": "火球",
+  "NAME": "「火球」",
   "DESCRIPTION": " 需要三层 符文准备 ，造成 !D! 点 魔法伤害 ",
   "UPGRADE_DESCRIPTION": "   需要三层 符文准备  "
 },
   "RemiliaMod:CFHGJ": {
-  "NAME": "腐化攻击",
+  "NAME": "「腐化攻击」",
   "DESCRIPTION": "给与 腐化攻击 的效果",
   "UPGRADE_DESCRIPTION": "   费用-1  "
  },
   "RemiliaMod:CFHFY": {
-    "NAME": "腐化防御",
+    "NAME": "「腐化防御」",
     "DESCRIPTION": "给与 腐化防御 的效果",
     "UPGRADE_DESCRIPTION": "   费用-1  "
   },
   "RemiliaMod:CGJM": {
-  "NAME": "目",
+  "NAME": "「目」",
   "DESCRIPTION": "需要五层 符文准备 ，芙兰朵露 造成 !D! 加于 怪物的易伤数*10点 魔法伤害 ，给与 !M! 层 易伤 ",
   "UPGRADE_DESCRIPTION": "   需要五层 符文准备  "
 },
   "RemiliaMod:CPYSNL": {
-  "NAME": "易伤能力",
+  "NAME": "「易伤能力」",
   "DESCRIPTION": "给与 易伤能力 ",
   "UPGRADE_DESCRIPTION": "   费用-1  "
 },
   "RemiliaMod:CPYSGJ": {
-    "NAME": "毫不留情",
+    "NAME": "「毫不留情」",
     "DESCRIPTION": "给与 易伤攻击 ",
     "UPGRADE_DESCRIPTION": "   费用-1  "
   },
   "RemiliaMod:CPXRNL": {
-  "NAME": "虚弱能力",
+  "NAME": "「虚弱能力」",
   "DESCRIPTION": "给与 虚弱能力 ",
   "UPGRADE_DESCRIPTION": "   费用-1  "
  },
@@ -352,5 +352,15 @@
     "NAME": "「蓬莱之药」",
     "DESCRIPTION": "该卡牌全是未知的效果 ",
     "UPGRADE_DESCRIPTION": "   该卡牌全是未知的效果   "
+  },
+  "RemiliaMod:CJNFBMJ": {
+    "NAME": "「敏捷翻倍」",
+    "DESCRIPTION": "翻倍敌人的敏捷 ",
+    "UPGRADE_DESCRIPTION": "   翻倍敌人的敏捷XD  "
+  },
+  "RemiliaMod:CNLCSZL": {
+    "NAME": "「20三次元创世之力」",
+    "DESCRIPTION": "2020年蕾米莉亚学会了新的技巧——创世之力 ",
+    "UPGRADE_DESCRIPTION": "   2020三次元创世之力  "
   }
 }
