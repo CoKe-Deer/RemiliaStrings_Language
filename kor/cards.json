@@ -352,6 +352,16 @@
     "NAME": "Penglai's Medicine",
     "DESCRIPTION": "The card is all Void.",
     "UPGRADE_DESCRIPTION": "The card is all Void."
+  },
+  "RemiliaMod:CJNFBMJ": {
+    "NAME": "Agile Doubling",
+    "DESCRIPTION": "double the agility of the enemy",
+    "UPGRADE_DESCRIPTION": "double the agility of the enemy XD"
+  },
+  "RemiliaMod:CNLCSZL": {
+    "NAME": "2020 God Power of Creation",
+    "DESCRIPTION": "In 2020 Remilia learned a new technique-the power of creation",
+    "UPGRADE_DESCRIPTION": "2020 God Power of Creation"
   }
 
 
